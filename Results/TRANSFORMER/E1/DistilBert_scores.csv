@@ -1,0 +1,2 @@
+Model,Experiment,Accuracy,F1,Recall,Precision
+DistilBert,E1,0.81,0.81,0.81,0.81

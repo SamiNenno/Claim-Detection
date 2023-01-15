@@ -1,0 +1,360 @@
+E0 NaiveBayes GloVe
+{'Accuracy': 0.54, 'F1': 0.56, 'Recall': 0.54, 'Precision': 0.61}
+E0 LogReg GloVe
+{'Accuracy': 0.71, 'F1': 0.71, 'Recall': 0.71, 'Precision': 0.71}
+E0 SVM GloVe
+{'Accuracy': 0.73, 'F1': 0.72, 'Recall': 0.73, 'Precision': 0.73}
+E0 XGBoost GloVe
+{'Accuracy': 0.69, 'F1': 0.68, 'Recall': 0.69, 'Precision': 0.69}
+E0 RandomForest GloVe
+{'Accuracy': 0.62, 'F1': 0.52, 'Recall': 0.62, 'Precision': 0.48}
+E0 AdaBoost GloVe
+{'Accuracy': 0.66, 'F1': 0.66, 'Recall': 0.66, 'Precision': 0.66}
+E0 NaiveBayes Tf-idf
+{'Accuracy': 0.48, 'F1': 0.4, 'Recall': 0.48, 'Precision': 0.57}
+E0 LogReg Tf-idf
+{'Accuracy': 0.58, 'F1': 0.57, 'Recall': 0.58, 'Precision': 0.59}
+E0 SVM Tf-idf
+{'Accuracy': 0.58, 'F1': 0.56, 'Recall': 0.58, 'Precision': 0.59}
+E0 XGBoost Tf-idf
+{'Accuracy': 0.57, 'F1': 0.57, 'Recall': 0.57, 'Precision': 0.57}
+E0 RandomForest Tf-idf
+{'Accuracy': 0.38, 'F1': 0.23, 'Recall': 0.38, 'Precision': 0.35}
+E0 AdaBoost Tf-idf
+{'Accuracy': 0.47, 'F1': 0.47, 'Recall': 0.47, 'Precision': 0.47}
+E0 NaiveBayes SentEmbeddings
+{'Accuracy': 0.55, 'F1': 0.55, 'Recall': 0.55, 'Precision': 0.57}
+E0 LogReg SentEmbeddings
+{'Accuracy': 0.69, 'F1': 0.67, 'Recall': 0.69, 'Precision': 0.7}
+E0 SVM SentEmbeddings
+{'Accuracy': 0.74, 'F1': 0.73, 'Recall': 0.74, 'Precision': 0.74}
+E0 XGBoost SentEmbeddings
+{'Accuracy': 0.68, 'F1': 0.68, 'Recall': 0.68, 'Precision': 0.68}
+E0 RandomForest SentEmbeddings
+{'Accuracy': 0.53, 'F1': 0.44, 'Recall': 0.53, 'Precision': 0.38}
+E0 AdaBoost SentEmbeddings
+{'Accuracy': 0.63, 'F1': 0.62, 'Recall': 0.63, 'Precision': 0.63}
+E0 NaiveBayes BoW
+{'Accuracy': 0.52, 'F1': 0.51, 'Recall': 0.52, 'Precision': 0.52}
+E0 LogReg BoW
+{'Accuracy': 0.61, 'F1': 0.6, 'Recall': 0.61, 'Precision': 0.6}
+E0 SVM BoW
+{'Accuracy': 0.59, 'F1': 0.57, 'Recall': 0.59, 'Precision': 0.59}
+E0 XGBoost BoW
+{'Accuracy': 0.58, 'F1': 0.58, 'Recall': 0.58, 'Precision': 0.58}
+E0 RandomForest BoW
+{'Accuracy': 0.38, 'F1': 0.23, 'Recall': 0.38, 'Precision': 0.31}
+E0 AdaBoost BoW
+{'Accuracy': 0.49, 'F1': 0.48, 'Recall': 0.49, 'Precision': 0.49}
+E0 NaiveBayes Fasttext_Wiki
+{'Accuracy': 0.55, 'F1': 0.57, 'Recall': 0.55, 'Precision': 0.62}
+E0 LogReg Fasttext_Wiki
+{'Accuracy': 0.72, 'F1': 0.72, 'Recall': 0.72, 'Precision': 0.73}
+E0 SVM Fasttext_Wiki
+{'Accuracy': 0.73, 'F1': 0.73, 'Recall': 0.73, 'Precision': 0.74}
+E0 XGBoost Fasttext_Wiki
+{'Accuracy': 0.69, 'F1': 0.69, 'Recall': 0.69, 'Precision': 0.69}
+E0 RandomForest Fasttext_Wiki
+{'Accuracy': 0.62, 'F1': 0.53, 'Recall': 0.62, 'Precision': 0.49}
+E0 AdaBoost Fasttext_Wiki
+{'Accuracy': 0.65, 'F1': 0.65, 'Recall': 0.65, 'Precision': 0.65}
+E0 NaiveBayes Word2Vec
+{'Accuracy': 0.47, 'F1': 0.48, 'Recall': 0.47, 'Precision': 0.54}
+E0 LogReg Word2Vec
+{'Accuracy': 0.69, 'F1': 0.67, 'Recall': 0.69, 'Precision': 0.72}
+E0 SVM Word2Vec
+{'Accuracy': 0.67, 'F1': 0.64, 'Recall': 0.67, 'Precision': 0.7}
+E0 XGBoost Word2Vec
+{'Accuracy': 0.7, 'F1': 0.7, 'Recall': 0.7, 'Precision': 0.7}
+E0 RandomForest Word2Vec
+{'Accuracy': 0.63, 'F1': 0.54, 'Recall': 0.63, 'Precision': 0.5}
+E0 AdaBoost Word2Vec
+{'Accuracy': 0.67, 'F1': 0.66, 'Recall': 0.67, 'Precision': 0.66}
+E1 NaiveBayes GloVe
+{'Accuracy': 0.46, 'F1': 0.48, 'Recall': 0.46, 'Precision': 0.55}
+E1 LogReg GloVe
+{'Accuracy': 0.64, 'F1': 0.63, 'Recall': 0.64, 'Precision': 0.64}
+E1 SVM GloVe
+{'Accuracy': 0.65, 'F1': 0.62, 'Recall': 0.65, 'Precision': 0.65}
+E1 XGBoost GloVe
+{'Accuracy': 0.62, 'F1': 0.61, 'Recall': 0.62, 'Precision': 0.61}
+E1 RandomForest GloVe
+{'Accuracy': 0.56, 'F1': 0.46, 'Recall': 0.56, 'Precision': 0.46}
+E1 AdaBoost GloVe
+{'Accuracy': 0.59, 'F1': 0.57, 'Recall': 0.59, 'Precision': 0.57}
+E1 NaiveBayes Tf-idf
+{'Accuracy': 0.45, 'F1': 0.32, 'Recall': 0.45, 'Precision': 0.44}
+E1 LogReg Tf-idf
+{'Accuracy': 0.54, 'F1': 0.52, 'Recall': 0.54, 'Precision': 0.54}
+E1 SVM Tf-idf
+{'Accuracy': 0.53, 'F1': 0.5, 'Recall': 0.53, 'Precision': 0.55}
+E1 XGBoost Tf-idf
+{'Accuracy': 0.5, 'F1': 0.48, 'Recall': 0.5, 'Precision': 0.49}
+E1 RandomForest Tf-idf
+{'Accuracy': 0.42, 'F1': 0.25, 'Recall': 0.42, 'Precision': 0.18}
+E1 AdaBoost Tf-idf
+{'Accuracy': 0.46, 'F1': 0.44, 'Recall': 0.46, 'Precision': 0.45}
+E1 NaiveBayes SentEmbeddings
+{'Accuracy': 0.47, 'F1': 0.48, 'Recall': 0.47, 'Precision': 0.52}
+E1 LogReg SentEmbeddings
+{'Accuracy': 0.63, 'F1': 0.6, 'Recall': 0.63, 'Precision': 0.64}
+E1 SVM SentEmbeddings
+{'Accuracy': 0.66, 'F1': 0.63, 'Recall': 0.66, 'Precision': 0.67}
+E1 XGBoost SentEmbeddings
+{'Accuracy': 0.61, 'F1': 0.6, 'Recall': 0.61, 'Precision': 0.6}
+E1 RandomForest SentEmbeddings
+{'Accuracy': 0.45, 'F1': 0.32, 'Recall': 0.45, 'Precision': 0.38}
+E1 AdaBoost SentEmbeddings
+{'Accuracy': 0.55, 'F1': 0.54, 'Recall': 0.55, 'Precision': 0.54}
+E1 NaiveBayes BoW
+{'Accuracy': 0.48, 'F1': 0.44, 'Recall': 0.48, 'Precision': 0.47}
+E1 LogReg BoW
+{'Accuracy': 0.55, 'F1': 0.55, 'Recall': 0.55, 'Precision': 0.55}
+E1 SVM BoW
+{'Accuracy': 0.56, 'F1': 0.53, 'Recall': 0.56, 'Precision': 0.56}
+E1 XGBoost BoW
+{'Accuracy': 0.49, 'F1': 0.48, 'Recall': 0.49, 'Precision': 0.49}
+E1 RandomForest BoW
+{'Accuracy': 0.42, 'F1': 0.25, 'Recall': 0.42, 'Precision': 0.18}
+E1 AdaBoost BoW
+{'Accuracy': 0.46, 'F1': 0.43, 'Recall': 0.46, 'Precision': 0.45}
+E1 NaiveBayes Fasttext_Wiki
+{'Accuracy': 0.47, 'F1': 0.49, 'Recall': 0.47, 'Precision': 0.56}
+E1 LogReg Fasttext_Wiki
+{'Accuracy': 0.66, 'F1': 0.65, 'Recall': 0.66, 'Precision': 0.66}
+E1 SVM Fasttext_Wiki
+{'Accuracy': 0.66, 'F1': 0.63, 'Recall': 0.66, 'Precision': 0.67}
+E1 XGBoost Fasttext_Wiki
+{'Accuracy': 0.63, 'F1': 0.63, 'Recall': 0.63, 'Precision': 0.63}
+E1 RandomForest Fasttext_Wiki
+{'Accuracy': 0.6, 'F1': 0.49, 'Recall': 0.6, 'Precision': 0.46}
+E1 AdaBoost Fasttext_Wiki
+{'Accuracy': 0.6, 'F1': 0.59, 'Recall': 0.6, 'Precision': 0.58}
+E1 NaiveBayes Word2Vec
+{'Accuracy': 0.38, 'F1': 0.38, 'Recall': 0.38, 'Precision': 0.49}
+E1 LogReg Word2Vec
+{'Accuracy': 0.63, 'F1': 0.6, 'Recall': 0.63, 'Precision': 0.64}
+E1 SVM Word2Vec
+{'Accuracy': 0.61, 'F1': 0.51, 'Recall': 0.61, 'Precision': 0.6}
+E1 XGBoost Word2Vec
+{'Accuracy': 0.64, 'F1': 0.63, 'Recall': 0.64, 'Precision': 0.63}
+E1 RandomForest Word2Vec
+{'Accuracy': 0.6, 'F1': 0.49, 'Recall': 0.6, 'Precision': 0.46}
+E1 AdaBoost Word2Vec
+{'Accuracy': 0.61, 'F1': 0.59, 'Recall': 0.61, 'Precision': 0.59}
+E2 NaiveBayes GloVe
+{'Accuracy': 0.5, 'F1': 0.52, 'Recall': 0.5, 'Precision': 0.58}
+E2 LogReg GloVe
+{'Accuracy': 0.67, 'F1': 0.67, 'Recall': 0.67, 'Precision': 0.68}
+E2 SVM GloVe
+{'Accuracy': 0.69, 'F1': 0.67, 'Recall': 0.69, 'Precision': 0.69}
+E2 XGBoost GloVe
+{'Accuracy': 0.66, 'F1': 0.66, 'Recall': 0.66, 'Precision': 0.66}
+E2 RandomForest GloVe
+{'Accuracy': 0.59, 'F1': 0.49, 'Recall': 0.59, 'Precision': 0.48}
+E2 AdaBoost GloVe
+{'Accuracy': 0.62, 'F1': 0.61, 'Recall': 0.62, 'Precision': 0.61}
+E2 NaiveBayes Tf-idf
+{'Accuracy': 0.46, 'F1': 0.34, 'Recall': 0.46, 'Precision': 0.5}
+E2 LogReg Tf-idf
+{'Accuracy': 0.56, 'F1': 0.55, 'Recall': 0.56, 'Precision': 0.57}
+E2 SVM Tf-idf
+{'Accuracy': 0.56, 'F1': 0.52, 'Recall': 0.56, 'Precision': 0.57}
+E2 XGBoost Tf-idf
+{'Accuracy': 0.52, 'F1': 0.52, 'Recall': 0.52, 'Precision': 0.52}
+E2 RandomForest Tf-idf
+{'Accuracy': 0.43, 'F1': 0.26, 'Recall': 0.43, 'Precision': 0.18}
+E2 AdaBoost Tf-idf
+{'Accuracy': 0.48, 'F1': 0.47, 'Recall': 0.48, 'Precision': 0.48}
+E2 NaiveBayes SentEmbeddings
+{'Accuracy': 0.5, 'F1': 0.51, 'Recall': 0.5, 'Precision': 0.55}
+E2 LogReg SentEmbeddings
+{'Accuracy': 0.66, 'F1': 0.63, 'Recall': 0.66, 'Precision': 0.67}
+E2 SVM SentEmbeddings
+{'Accuracy': 0.7, 'F1': 0.68, 'Recall': 0.7, 'Precision': 0.71}
+E2 XGBoost SentEmbeddings
+{'Accuracy': 0.65, 'F1': 0.64, 'Recall': 0.65, 'Precision': 0.64}
+E2 RandomForest SentEmbeddings
+{'Accuracy': 0.47, 'F1': 0.35, 'Recall': 0.47, 'Precision': 0.41}
+E2 AdaBoost SentEmbeddings
+{'Accuracy': 0.58, 'F1': 0.57, 'Recall': 0.58, 'Precision': 0.57}
+E2 NaiveBayes BoW
+{'Accuracy': 0.5, 'F1': 0.47, 'Recall': 0.5, 'Precision': 0.49}
+E2 LogReg BoW
+{'Accuracy': 0.59, 'F1': 0.59, 'Recall': 0.59, 'Precision': 0.59}
+E2 SVM BoW
+{'Accuracy': 0.59, 'F1': 0.57, 'Recall': 0.59, 'Precision': 0.59}
+E2 XGBoost BoW
+{'Accuracy': 0.53, 'F1': 0.52, 'Recall': 0.53, 'Precision': 0.53}
+E2 RandomForest BoW
+{'Accuracy': 0.43, 'F1': 0.26, 'Recall': 0.43, 'Precision': 0.18}
+E2 AdaBoost BoW
+{'Accuracy': 0.48, 'F1': 0.47, 'Recall': 0.48, 'Precision': 0.48}
+E2 NaiveBayes Fasttext_Wiki
+{'Accuracy': 0.5, 'F1': 0.52, 'Recall': 0.5, 'Precision': 0.59}
+E2 LogReg Fasttext_Wiki
+{'Accuracy': 0.69, 'F1': 0.69, 'Recall': 0.69, 'Precision': 0.7}
+E2 SVM Fasttext_Wiki
+{'Accuracy': 0.7, 'F1': 0.69, 'Recall': 0.7, 'Precision': 0.71}
+E2 XGBoost Fasttext_Wiki
+{'Accuracy': 0.67, 'F1': 0.67, 'Recall': 0.67, 'Precision': 0.67}
+E2 RandomForest Fasttext_Wiki
+{'Accuracy': 0.62, 'F1': 0.52, 'Recall': 0.62, 'Precision': 0.48}
+E2 AdaBoost Fasttext_Wiki
+{'Accuracy': 0.63, 'F1': 0.62, 'Recall': 0.63, 'Precision': 0.61}
+E2 NaiveBayes Word2Vec
+{'Accuracy': 0.4, 'F1': 0.4, 'Recall': 0.4, 'Precision': 0.52}
+E2 LogReg Word2Vec
+{'Accuracy': 0.66, 'F1': 0.63, 'Recall': 0.66, 'Precision': 0.68}
+E2 SVM Word2Vec
+{'Accuracy': 0.63, 'F1': 0.55, 'Recall': 0.63, 'Precision': 0.64}
+E2 XGBoost Word2Vec
+{'Accuracy': 0.67, 'F1': 0.66, 'Recall': 0.67, 'Precision': 0.66}
+E2 RandomForest Word2Vec
+{'Accuracy': 0.62, 'F1': 0.52, 'Recall': 0.62, 'Precision': 0.48}
+E2 AdaBoost Word2Vec
+{'Accuracy': 0.64, 'F1': 0.62, 'Recall': 0.64, 'Precision': 0.62}
+E3 NaiveBayes GloVe
+{'Accuracy': 0.51, 'F1': 0.52, 'Recall': 0.51, 'Precision': 0.58}
+E3 LogReg GloVe
+{'Accuracy': 0.69, 'F1': 0.68, 'Recall': 0.69, 'Precision': 0.69}
+E3 SVM GloVe
+{'Accuracy': 0.71, 'F1': 0.69, 'Recall': 0.71, 'Precision': 0.71}
+E3 XGBoost GloVe
+{'Accuracy': 0.67, 'F1': 0.67, 'Recall': 0.67, 'Precision': 0.67}
+E3 RandomForest GloVe
+{'Accuracy': 0.59, 'F1': 0.5, 'Recall': 0.59, 'Precision': 0.48}
+E3 AdaBoost GloVe
+{'Accuracy': 0.64, 'F1': 0.63, 'Recall': 0.64, 'Precision': 0.63}
+E3 NaiveBayes Tf-idf
+{'Accuracy': 0.47, 'F1': 0.36, 'Recall': 0.47, 'Precision': 0.49}
+E3 LogReg Tf-idf
+{'Accuracy': 0.59, 'F1': 0.57, 'Recall': 0.59, 'Precision': 0.59}
+E3 SVM Tf-idf
+{'Accuracy': 0.57, 'F1': 0.55, 'Recall': 0.57, 'Precision': 0.59}
+E3 XGBoost Tf-idf
+{'Accuracy': 0.55, 'F1': 0.54, 'Recall': 0.55, 'Precision': 0.55}
+E3 RandomForest Tf-idf
+{'Accuracy': 0.41, 'F1': 0.24, 'Recall': 0.41, 'Precision': 0.17}
+E3 AdaBoost Tf-idf
+{'Accuracy': 0.51, 'F1': 0.49, 'Recall': 0.51, 'Precision': 0.5}
+E3 NaiveBayes SentEmbeddings
+{'Accuracy': 0.52, 'F1': 0.53, 'Recall': 0.52, 'Precision': 0.56}
+E3 LogReg SentEmbeddings
+{'Accuracy': 0.67, 'F1': 0.65, 'Recall': 0.67, 'Precision': 0.69}
+E3 SVM SentEmbeddings
+{'Accuracy': 0.72, 'F1': 0.71, 'Recall': 0.72, 'Precision': 0.73}
+E3 XGBoost SentEmbeddings
+{'Accuracy': 0.68, 'F1': 0.67, 'Recall': 0.68, 'Precision': 0.67}
+E3 RandomForest SentEmbeddings
+{'Accuracy': 0.48, 'F1': 0.38, 'Recall': 0.48, 'Precision': 0.4}
+E3 AdaBoost SentEmbeddings
+{'Accuracy': 0.6, 'F1': 0.6, 'Recall': 0.6, 'Precision': 0.6}
+E3 NaiveBayes BoW
+{'Accuracy': 0.51, 'F1': 0.49, 'Recall': 0.51, 'Precision': 0.51}
+E3 LogReg BoW
+{'Accuracy': 0.62, 'F1': 0.61, 'Recall': 0.62, 'Precision': 0.61}
+E3 SVM BoW
+{'Accuracy': 0.6, 'F1': 0.59, 'Recall': 0.6, 'Precision': 0.61}
+E3 XGBoost BoW
+{'Accuracy': 0.56, 'F1': 0.55, 'Recall': 0.56, 'Precision': 0.56}
+E3 RandomForest BoW
+{'Accuracy': 0.41, 'F1': 0.24, 'Recall': 0.41, 'Precision': 0.17}
+E3 AdaBoost BoW
+{'Accuracy': 0.49, 'F1': 0.48, 'Recall': 0.49, 'Precision': 0.49}
+E3 NaiveBayes Fasttext_Wiki
+{'Accuracy': 0.52, 'F1': 0.54, 'Recall': 0.52, 'Precision': 0.59}
+E3 LogReg Fasttext_Wiki
+{'Accuracy': 0.71, 'F1': 0.7, 'Recall': 0.71, 'Precision': 0.72}
+E3 SVM Fasttext_Wiki
+{'Accuracy': 0.72, 'F1': 0.71, 'Recall': 0.72, 'Precision': 0.73}
+E3 XGBoost Fasttext_Wiki
+{'Accuracy': 0.69, 'F1': 0.69, 'Recall': 0.69, 'Precision': 0.69}
+E3 RandomForest Fasttext_Wiki
+{'Accuracy': 0.62, 'F1': 0.52, 'Recall': 0.62, 'Precision': 0.48}
+E3 AdaBoost Fasttext_Wiki
+{'Accuracy': 0.64, 'F1': 0.63, 'Recall': 0.64, 'Precision': 0.63}
+E3 NaiveBayes Word2Vec
+{'Accuracy': 0.42, 'F1': 0.42, 'Recall': 0.42, 'Precision': 0.5}
+E3 LogReg Word2Vec
+{'Accuracy': 0.67, 'F1': 0.64, 'Recall': 0.67, 'Precision': 0.69}
+E3 SVM Word2Vec
+{'Accuracy': 0.65, 'F1': 0.6, 'Recall': 0.65, 'Precision': 0.67}
+E3 XGBoost Word2Vec
+{'Accuracy': 0.69, 'F1': 0.68, 'Recall': 0.69, 'Precision': 0.68}
+E3 RandomForest Word2Vec
+{'Accuracy': 0.62, 'F1': 0.52, 'Recall': 0.62, 'Precision': 0.48}
+E3 AdaBoost Word2Vec
+{'Accuracy': 0.65, 'F1': 0.63, 'Recall': 0.65, 'Precision': 0.63}
+E4 NaiveBayes GloVe
+{'Accuracy': 0.52, 'F1': 0.54, 'Recall': 0.52, 'Precision': 0.59}
+E4 LogReg GloVe
+{'Accuracy': 0.71, 'F1': 0.71, 'Recall': 0.71, 'Precision': 0.71}
+E4 SVM GloVe
+{'Accuracy': 0.72, 'F1': 0.71, 'Recall': 0.72, 'Precision': 0.73}
+E4 XGBoost GloVe
+{'Accuracy': 0.69, 'F1': 0.68, 'Recall': 0.69, 'Precision': 0.68}
+E4 RandomForest GloVe
+{'Accuracy': 0.6, 'F1': 0.51, 'Recall': 0.6, 'Precision': 0.49}
+E4 AdaBoost GloVe
+{'Accuracy': 0.64, 'F1': 0.64, 'Recall': 0.64, 'Precision': 0.63}
+E4 NaiveBayes Tf-idf
+{'Accuracy': 0.47, 'F1': 0.37, 'Recall': 0.47, 'Precision': 0.61}
+E4 LogReg Tf-idf
+{'Accuracy': 0.6, 'F1': 0.58, 'Recall': 0.6, 'Precision': 0.6}
+E4 SVM Tf-idf
+{'Accuracy': 0.58, 'F1': 0.56, 'Recall': 0.58, 'Precision': 0.6}
+E4 XGBoost Tf-idf
+{'Accuracy': 0.57, 'F1': 0.56, 'Recall': 0.57, 'Precision': 0.57}
+E4 RandomForest Tf-idf
+{'Accuracy': 0.41, 'F1': 0.24, 'Recall': 0.41, 'Precision': 0.17}
+E4 AdaBoost Tf-idf
+{'Accuracy': 0.5, 'F1': 0.49, 'Recall': 0.5, 'Precision': 0.49}
+E4 NaiveBayes SentEmbeddings
+{'Accuracy': 0.53, 'F1': 0.54, 'Recall': 0.53, 'Precision': 0.57}
+E4 LogReg SentEmbeddings
+{'Accuracy': 0.69, 'F1': 0.66, 'Recall': 0.69, 'Precision': 0.7}
+E4 SVM SentEmbeddings
+{'Accuracy': 0.73, 'F1': 0.72, 'Recall': 0.73, 'Precision': 0.74}
+E4 XGBoost SentEmbeddings
+{'Accuracy': 0.69, 'F1': 0.68, 'Recall': 0.69, 'Precision': 0.68}
+E4 RandomForest SentEmbeddings
+{'Accuracy': 0.49, 'F1': 0.39, 'Recall': 0.49, 'Precision': 0.4}
+E4 AdaBoost SentEmbeddings
+{'Accuracy': 0.61, 'F1': 0.6, 'Recall': 0.61, 'Precision': 0.61}
+E4 NaiveBayes BoW
+{'Accuracy': 0.52, 'F1': 0.5, 'Recall': 0.52, 'Precision': 0.53}
+E4 LogReg BoW
+{'Accuracy': 0.63, 'F1': 0.62, 'Recall': 0.63, 'Precision': 0.62}
+E4 SVM BoW
+{'Accuracy': 0.61, 'F1': 0.6, 'Recall': 0.61, 'Precision': 0.61}
+E4 XGBoost BoW
+{'Accuracy': 0.57, 'F1': 0.57, 'Recall': 0.57, 'Precision': 0.57}
+E4 RandomForest BoW
+{'Accuracy': 0.41, 'F1': 0.24, 'Recall': 0.41, 'Precision': 0.17}
+E4 AdaBoost BoW
+{'Accuracy': 0.51, 'F1': 0.5, 'Recall': 0.51, 'Precision': 0.5}
+E4 NaiveBayes Fasttext_Wiki
+{'Accuracy': 0.53, 'F1': 0.55, 'Recall': 0.53, 'Precision': 0.6}
+E4 LogReg Fasttext_Wiki
+{'Accuracy': 0.73, 'F1': 0.72, 'Recall': 0.73, 'Precision': 0.73}
+E4 SVM Fasttext_Wiki
+{'Accuracy': 0.74, 'F1': 0.73, 'Recall': 0.74, 'Precision': 0.74}
+E4 XGBoost Fasttext_Wiki
+{'Accuracy': 0.71, 'F1': 0.7, 'Recall': 0.71, 'Precision': 0.7}
+E4 RandomForest Fasttext_Wiki
+{'Accuracy': 0.63, 'F1': 0.53, 'Recall': 0.63, 'Precision': 0.49}
+E4 AdaBoost Fasttext_Wiki
+{'Accuracy': 0.65, 'F1': 0.65, 'Recall': 0.65, 'Precision': 0.65}
+E4 NaiveBayes Word2Vec
+{'Accuracy': 0.42, 'F1': 0.42, 'Recall': 0.42, 'Precision': 0.5}
+E4 LogReg Word2Vec
+{'Accuracy': 0.68, 'F1': 0.66, 'Recall': 0.68, 'Precision': 0.7}
+E4 SVM Word2Vec
+{'Accuracy': 0.67, 'F1': 0.62, 'Recall': 0.67, 'Precision': 0.7}
+E4 XGBoost Word2Vec
+{'Accuracy': 0.7, 'F1': 0.7, 'Recall': 0.7, 'Precision': 0.7}
+E4 RandomForest Word2Vec
+{'Accuracy': 0.63, 'F1': 0.53, 'Recall': 0.63, 'Precision': 0.49}
+E4 AdaBoost Word2Vec
+{'Accuracy': 0.65, 'F1': 0.64, 'Recall': 0.65, 'Precision': 0.64}

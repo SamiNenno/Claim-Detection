@@ -1,0 +1,2 @@
+Model,Experiment,Accuracy,F1,Recall,Precision
+GottBert,E4,0.92,0.92,0.92,0.92

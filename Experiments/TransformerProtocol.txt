@@ -1,0 +1,580 @@
+Train DistilBert...
+  {'loss': 0.2934, 'learning_rate': 1.7105263157894737e-05, 'epoch': 3.29}
+  {'train_runtime': 351.6264, 'train_samples_per_second': 68.752, 'train_steps_per_second': 2.161, 'train_loss': 0.20928369195837723, 'epoch': 5.0}
+  {'loss': 0.2619, 'learning_rate': 1.7105263157894737e-05, 'epoch': 3.29}
+  {'train_runtime': 351.8703, 'train_samples_per_second': 68.704, 'train_steps_per_second': 2.16, 'train_loss': 0.18527575543052272, 'epoch': 5.0}
+  {'loss': 0.2553, 'learning_rate': 1.7105263157894737e-05, 'epoch': 3.29}
+  {'train_runtime': 351.8347, 'train_samples_per_second': 68.711, 'train_steps_per_second': 2.16, 'train_loss': 0.17963539299212003, 'epoch': 5.0}
+  {'loss': 0.274, 'learning_rate': 1.7105263157894737e-05, 'epoch': 3.29}
+  {'train_runtime': 352.122, 'train_samples_per_second': 68.669, 'train_steps_per_second': 2.158, 'train_loss': 0.19331922656611392, 'epoch': 5.0}
+  {'loss': 0.2572, 'learning_rate': 1.7105263157894737e-05, 'epoch': 3.29}
+  {'train_runtime': 352.2228, 'train_samples_per_second': 68.65, 'train_steps_per_second': 2.158, 'train_loss': 0.18449876057474238, 'epoch': 5.0}
+  {'loss': 0.2767, 'learning_rate': 1.7105263157894737e-05, 'epoch': 3.29}
+  {'train_runtime': 352.1449, 'train_samples_per_second': 68.665, 'train_steps_per_second': 2.158, 'train_loss': 0.19613936951285915, 'epoch': 5.0}
+  {'loss': 0.2801, 'learning_rate': 1.7105263157894737e-05, 'epoch': 3.29}
+  {'train_runtime': 352.1383, 'train_samples_per_second': 68.666, 'train_steps_per_second': 2.158, 'train_loss': 0.19619329603094804, 'epoch': 5.0}
+  {'loss': 0.259, 'learning_rate': 1.7105263157894737e-05, 'epoch': 3.29}
+  {'train_runtime': 352.2566, 'train_samples_per_second': 68.643, 'train_steps_per_second': 2.158, 'train_loss': 0.1813468017076191, 'epoch': 5.0}
+  {'loss': 0.2825, 'learning_rate': 1.7105263157894737e-05, 'epoch': 3.29}
+  {'train_runtime': 352.2521, 'train_samples_per_second': 68.644, 'train_steps_per_second': 2.158, 'train_loss': 0.19956548464925666, 'epoch': 5.0}
+  {'loss': 0.2783, 'learning_rate': 1.7105263157894737e-05, 'epoch': 3.29}
+  {'train_runtime': 352.1978, 'train_samples_per_second': 68.655, 'train_steps_per_second': 2.158, 'train_loss': 0.1988862213335539, 'epoch': 5.0}
+          Model Experiment  Accuracy   F1  Recall  Precision
+  0  DistilBert         E0       0.9  0.9     0.9        0.9
+  Train DistilBert...
+  {'loss': 0.4924, 'learning_rate': 2.8902953586497894e-05, 'epoch': 2.11}
+  {'loss': 0.158, 'learning_rate': 7.805907172995782e-06, 'epoch': 4.22}
+  {'train_runtime': 552.4208, 'train_samples_per_second': 68.625, 'train_steps_per_second': 2.145, 'train_loss': 0.284072620858623, 'epoch': 5.0}
+  {'loss': 0.4887, 'learning_rate': 2.8902953586497894e-05, 'epoch': 2.11}
+  {'loss': 0.1513, 'learning_rate': 7.805907172995782e-06, 'epoch': 4.22}
+  {'train_runtime': 552.6671, 'train_samples_per_second': 68.595, 'train_steps_per_second': 2.144, 'train_loss': 0.28038415305222136, 'epoch': 5.0}
+  {'loss': 0.4841, 'learning_rate': 2.8902953586497894e-05, 'epoch': 2.11}
+  {'loss': 0.1523, 'learning_rate': 7.805907172995782e-06, 'epoch': 4.22}
+  {'train_runtime': 552.7313, 'train_samples_per_second': 68.587, 'train_steps_per_second': 2.144, 'train_loss': 0.2779671801796442, 'epoch': 5.0}
+  {'loss': 0.5003, 'learning_rate': 2.8902953586497894e-05, 'epoch': 2.11}
+  {'loss': 0.1585, 'learning_rate': 7.805907172995782e-06, 'epoch': 4.22}
+  {'train_runtime': 552.8089, 'train_samples_per_second': 68.577, 'train_steps_per_second': 2.144, 'train_loss': 0.28906295470547577, 'epoch': 5.0}
+  {'loss': 0.4952, 'learning_rate': 2.8902953586497894e-05, 'epoch': 2.11}
+  {'loss': 0.1571, 'learning_rate': 7.805907172995782e-06, 'epoch': 4.22}
+  {'train_runtime': 552.8478, 'train_samples_per_second': 68.572, 'train_steps_per_second': 2.143, 'train_loss': 0.28519115126082667, 'epoch': 5.0}
+  {'loss': 0.4901, 'learning_rate': 2.8902953586497894e-05, 'epoch': 2.11}
+  {'loss': 0.1494, 'learning_rate': 7.805907172995782e-06, 'epoch': 4.22}
+  {'train_runtime': 552.723, 'train_samples_per_second': 68.597, 'train_steps_per_second': 2.144, 'train_loss': 0.2799427700445119, 'epoch': 5.0}
+  {'loss': 0.497, 'learning_rate': 2.8902953586497894e-05, 'epoch': 2.11}
+  {'loss': 0.1527, 'learning_rate': 7.805907172995782e-06, 'epoch': 4.22}
+  {'train_runtime': 552.7412, 'train_samples_per_second': 68.594, 'train_steps_per_second': 2.144, 'train_loss': 0.28400710866421086, 'epoch': 5.0}
+  {'loss': 0.5008, 'learning_rate': 2.8902953586497894e-05, 'epoch': 2.11}
+  {'loss': 0.1552, 'learning_rate': 7.805907172995782e-06, 'epoch': 4.22}
+  {'train_runtime': 552.7911, 'train_samples_per_second': 68.588, 'train_steps_per_second': 2.144, 'train_loss': 0.28713002909084917, 'epoch': 5.0}
+  {'loss': 0.4929, 'learning_rate': 2.8902953586497894e-05, 'epoch': 2.11}
+  {'loss': 0.1536, 'learning_rate': 7.805907172995782e-06, 'epoch': 4.22}
+  {'train_runtime': 552.814, 'train_samples_per_second': 68.585, 'train_steps_per_second': 2.144, 'train_loss': 0.283567236244427, 'epoch': 5.0}
+  {'loss': 0.523, 'learning_rate': 2.8902953586497894e-05, 'epoch': 2.11}
+  {'loss': 0.1586, 'learning_rate': 7.805907172995782e-06, 'epoch': 4.22}
+  {'train_runtime': 552.7939, 'train_samples_per_second': 68.588, 'train_steps_per_second': 2.144, 'train_loss': 0.29825347707241395, 'epoch': 5.0}
+          Model Experiment  Accuracy    F1  Recall  Precision
+  0  DistilBert         E1      0.81  0.81    0.81       0.81
+  Train DistilBert...
+  {'loss': 0.3358, 'learning_rate': 2.6851851851851855e-05, 'epoch': 2.31}
+  {'loss': 0.0527, 'learning_rate': 3.7037037037037037e-06, 'epoch': 4.63}
+  {'train_runtime': 503.1091, 'train_samples_per_second': 68.584, 'train_steps_per_second': 2.147, 'train_loss': 0.18183129142831872, 'epoch': 5.0}
+  {'loss': 0.3427, 'learning_rate': 2.6851851851851855e-05, 'epoch': 2.31}
+  {'loss': 0.0564, 'learning_rate': 3.7037037037037037e-06, 'epoch': 4.63}
+  {'train_runtime': 503.1768, 'train_samples_per_second': 68.574, 'train_steps_per_second': 2.146, 'train_loss': 0.18600325043554658, 'epoch': 5.0}
+  {'loss': 0.3219, 'learning_rate': 2.6851851851851855e-05, 'epoch': 2.31}
+  {'loss': 0.0504, 'learning_rate': 3.7037037037037037e-06, 'epoch': 4.63}
+  {'train_runtime': 503.259, 'train_samples_per_second': 68.563, 'train_steps_per_second': 2.146, 'train_loss': 0.17428268746093467, 'epoch': 5.0}
+  {'loss': 0.3394, 'learning_rate': 2.6851851851851855e-05, 'epoch': 2.31}
+  {'loss': 0.0554, 'learning_rate': 3.7037037037037037e-06, 'epoch': 4.63}
+  {'train_runtime': 503.4287, 'train_samples_per_second': 68.54, 'train_steps_per_second': 2.145, 'train_loss': 0.18389210447117135, 'epoch': 5.0}
+  {'loss': 0.3457, 'learning_rate': 2.6851851851851855e-05, 'epoch': 2.31}
+  {'loss': 0.0529, 'learning_rate': 3.7037037037037037e-06, 'epoch': 4.63}
+  {'train_runtime': 503.3144, 'train_samples_per_second': 68.556, 'train_steps_per_second': 2.146, 'train_loss': 0.18580687189543688, 'epoch': 5.0}
+  {'loss': 0.3382, 'learning_rate': 2.6851851851851855e-05, 'epoch': 2.31}
+  {'loss': 0.0541, 'learning_rate': 3.7037037037037037e-06, 'epoch': 4.63}
+  {'train_runtime': 503.2771, 'train_samples_per_second': 68.561, 'train_steps_per_second': 2.146, 'train_loss': 0.1837705393632253, 'epoch': 5.0}
+  {'loss': 0.3237, 'learning_rate': 2.6851851851851855e-05, 'epoch': 2.31}
+  {'loss': 0.0496, 'learning_rate': 3.7037037037037037e-06, 'epoch': 4.63}
+  {'train_runtime': 503.3419, 'train_samples_per_second': 68.552, 'train_steps_per_second': 2.146, 'train_loss': 0.1744021353898225, 'epoch': 5.0}
+  {'loss': 0.3474, 'learning_rate': 2.6851851851851855e-05, 'epoch': 2.31}
+  {'loss': 0.0532, 'learning_rate': 3.7037037037037037e-06, 'epoch': 4.63}
+  {'train_runtime': 503.2872, 'train_samples_per_second': 68.559, 'train_steps_per_second': 2.146, 'train_loss': 0.18721406481884145, 'epoch': 5.0}
+  {'loss': 0.3391, 'learning_rate': 2.6851851851851855e-05, 'epoch': 2.31}
+  {'loss': 0.0566, 'learning_rate': 3.7037037037037037e-06, 'epoch': 4.63}
+  {'train_runtime': 503.4509, 'train_samples_per_second': 68.547, 'train_steps_per_second': 2.145, 'train_loss': 0.1850022766325209, 'epoch': 5.0}
+  {'loss': 0.333, 'learning_rate': 2.6851851851851855e-05, 'epoch': 2.31}
+  {'loss': 0.0448, 'learning_rate': 3.7037037037037037e-06, 'epoch': 4.63}
+  {'train_runtime': 503.2853, 'train_samples_per_second': 68.569, 'train_steps_per_second': 2.146, 'train_loss': 0.17646564995801006, 'epoch': 5.0}
+          Model Experiment  Accuracy    F1  Recall  Precision
+  0  DistilBert         E2      0.89  0.89    0.89       0.89
+  Train DistilBert...
+  {'loss': 0.3055, 'learning_rate': 2.5728155339805826e-05, 'epoch': 2.43}
+  {'loss': 0.0547, 'learning_rate': 1.4563106796116506e-06, 'epoch': 4.85}
+  {'train_runtime': 479.9117, 'train_samples_per_second': 68.575, 'train_steps_per_second': 2.146, 'train_loss': 0.17534848561564695, 'epoch': 5.0}
+  {'loss': 0.2991, 'learning_rate': 2.5728155339805826e-05, 'epoch': 2.43}
+  {'loss': 0.05, 'learning_rate': 1.4563106796116506e-06, 'epoch': 4.85}
+  {'train_runtime': 479.9887, 'train_samples_per_second': 68.564, 'train_steps_per_second': 2.146, 'train_loss': 0.17004814622471634, 'epoch': 5.0}
+  {'loss': 0.3041, 'learning_rate': 2.5728155339805826e-05, 'epoch': 2.43}
+  {'loss': 0.0518, 'learning_rate': 1.4563106796116506e-06, 'epoch': 4.85}
+  {'train_runtime': 480.0576, 'train_samples_per_second': 68.554, 'train_steps_per_second': 2.146, 'train_loss': 0.17299221710672658, 'epoch': 5.0}
+  {'loss': 0.3349, 'learning_rate': 2.5728155339805826e-05, 'epoch': 2.43}
+  {'loss': 0.0529, 'learning_rate': 1.4563106796116506e-06, 'epoch': 4.85}
+  {'train_runtime': 480.2216, 'train_samples_per_second': 68.531, 'train_steps_per_second': 2.145, 'train_loss': 0.18915973670274308, 'epoch': 5.0}
+  {'loss': 0.3116, 'learning_rate': 2.5728155339805826e-05, 'epoch': 2.43}
+  {'loss': 0.0572, 'learning_rate': 1.4563106796116506e-06, 'epoch': 4.85}
+  {'train_runtime': 480.3088, 'train_samples_per_second': 68.529, 'train_steps_per_second': 2.144, 'train_loss': 0.17960599545136238, 'epoch': 5.0}
+  {'loss': 0.3019, 'learning_rate': 2.5728155339805826e-05, 'epoch': 2.43}
+  {'loss': 0.0542, 'learning_rate': 1.4563106796116506e-06, 'epoch': 4.85}
+  {'train_runtime': 480.4059, 'train_samples_per_second': 68.515, 'train_steps_per_second': 2.144, 'train_loss': 0.17351361391613784, 'epoch': 5.0}
+  {'loss': 0.3263, 'learning_rate': 2.5728155339805826e-05, 'epoch': 2.43}
+  {'loss': 0.0567, 'learning_rate': 1.4563106796116506e-06, 'epoch': 4.85}
+  {'train_runtime': 480.7298, 'train_samples_per_second': 68.469, 'train_steps_per_second': 2.143, 'train_loss': 0.1867886259139163, 'epoch': 5.0}
+  {'loss': 0.3126, 'learning_rate': 2.5728155339805826e-05, 'epoch': 2.43}
+  {'loss': 0.0533, 'learning_rate': 1.4563106796116506e-06, 'epoch': 4.85}
+  {'train_runtime': 480.6205, 'train_samples_per_second': 68.484, 'train_steps_per_second': 2.143, 'train_loss': 0.1784955017775008, 'epoch': 5.0}
+  {'loss': 0.3051, 'learning_rate': 2.5728155339805826e-05, 'epoch': 2.43}
+  {'loss': 0.05, 'learning_rate': 1.4563106796116506e-06, 'epoch': 4.85}
+  {'train_runtime': 480.5964, 'train_samples_per_second': 68.488, 'train_steps_per_second': 2.143, 'train_loss': 0.17320269548777237, 'epoch': 5.0}
+  {'loss': 0.3113, 'learning_rate': 2.5728155339805826e-05, 'epoch': 2.43}
+  {'loss': 0.0541, 'learning_rate': 1.4563106796116506e-06, 'epoch': 4.85}
+  {'train_runtime': 480.4673, 'train_samples_per_second': 68.506, 'train_steps_per_second': 2.144, 'train_loss': 0.1779172587741926, 'epoch': 5.0}
+          Model Experiment  Accuracy   F1  Recall  Precision
+  0  DistilBert         E3       0.9  0.9     0.9        0.9
+  Train DistilBert...
+  {'loss': 0.2312, 'learning_rate': 2.4874371859296484e-05, 'epoch': 2.51}
+  {'train_runtime': 462.6324, 'train_samples_per_second': 68.705, 'train_steps_per_second': 2.151, 'train_loss': 0.12468379514301242, 'epoch': 5.0}
+  {'loss': 0.2365, 'learning_rate': 2.4874371859296484e-05, 'epoch': 2.51}
+  {'train_runtime': 462.759, 'train_samples_per_second': 68.686, 'train_steps_per_second': 2.15, 'train_loss': 0.12727718161578155, 'epoch': 5.0}
+  {'loss': 0.2307, 'learning_rate': 2.4874371859296484e-05, 'epoch': 2.51}
+  {'train_runtime': 462.8923, 'train_samples_per_second': 68.666, 'train_steps_per_second': 2.15, 'train_loss': 0.12406677073569754, 'epoch': 5.0}
+  {'loss': 0.2287, 'learning_rate': 2.4874371859296484e-05, 'epoch': 2.51}
+  {'train_runtime': 462.9468, 'train_samples_per_second': 68.658, 'train_steps_per_second': 2.149, 'train_loss': 0.12202976217221974, 'epoch': 5.0}
+  {'loss': 0.2378, 'learning_rate': 2.4874371859296484e-05, 'epoch': 2.51}
+  {'train_runtime': 462.782, 'train_samples_per_second': 68.693, 'train_steps_per_second': 2.15, 'train_loss': 0.12911701969165898, 'epoch': 5.0}
+  {'loss': 0.2594, 'learning_rate': 2.4874371859296484e-05, 'epoch': 2.51}
+  {'train_runtime': 463.0167, 'train_samples_per_second': 68.658, 'train_steps_per_second': 2.149, 'train_loss': 0.14058432842618857, 'epoch': 5.0}
+  {'loss': 0.2384, 'learning_rate': 2.4874371859296484e-05, 'epoch': 2.51}
+  {'train_runtime': 463.1695, 'train_samples_per_second': 68.636, 'train_steps_per_second': 2.148, 'train_loss': 0.12704699914060047, 'epoch': 5.0}
+  {'loss': 0.2335, 'learning_rate': 2.4874371859296484e-05, 'epoch': 2.51}
+  {'train_runtime': 463.1987, 'train_samples_per_second': 68.631, 'train_steps_per_second': 2.148, 'train_loss': 0.1269933020050202, 'epoch': 5.0}
+  {'loss': 0.2308, 'learning_rate': 2.4874371859296484e-05, 'epoch': 2.51}
+  {'train_runtime': 463.5132, 'train_samples_per_second': 68.585, 'train_steps_per_second': 2.147, 'train_loss': 0.12557812024600543, 'epoch': 5.0}
+  {'loss': 0.2287, 'learning_rate': 2.4874371859296484e-05, 'epoch': 2.51}
+  {'train_runtime': 463.0446, 'train_samples_per_second': 68.654, 'train_steps_per_second': 2.149, 'train_loss': 0.12425136949548769, 'epoch': 5.0}
+          Model Experiment  Accuracy    F1  Recall  Precision
+  0  DistilBert         E4      0.94  0.94    0.94       0.94
+  Train GottBert...
+{'loss': 0.3041, 'learning_rate': 1.7105263157894737e-05, 'epoch': 3.29}
+{'train_runtime': 86.4212, 'train_samples_per_second': 279.735, 'train_steps_per_second': 8.794, 'train_loss': 0.21465093964024595, 'epoch': 5.0}
+{'loss': 0.345, 'learning_rate': 1.7105263157894737e-05, 'epoch': 3.29}
+{'train_runtime': 82.3835, 'train_samples_per_second': 293.445, 'train_steps_per_second': 9.225, 'train_loss': 0.24473422075572768, 'epoch': 5.0}
+{'loss': 0.3226, 'learning_rate': 1.7105263157894737e-05, 'epoch': 3.29}
+{'train_runtime': 83.8656, 'train_samples_per_second': 288.259, 'train_steps_per_second': 9.062, 'train_loss': 0.2277180270144814, 'epoch': 5.0}
+{'loss': 0.326, 'learning_rate': 1.7105263157894737e-05, 'epoch': 3.29}
+{'train_runtime': 83.2637, 'train_samples_per_second': 290.403, 'train_steps_per_second': 9.128, 'train_loss': 0.23249197884609824, 'epoch': 5.0}
+{'loss': 0.3004, 'learning_rate': 1.7105263157894737e-05, 'epoch': 3.29}
+{'train_runtime': 82.6972, 'train_samples_per_second': 292.392, 'train_steps_per_second': 9.19, 'train_loss': 0.21422116505472283, 'epoch': 5.0}
+{'loss': 0.3151, 'learning_rate': 1.7105263157894737e-05, 'epoch': 3.29}
+{'train_runtime': 82.822, 'train_samples_per_second': 291.951, 'train_steps_per_second': 9.176, 'train_loss': 0.22265997309433785, 'epoch': 5.0}
+{'loss': 0.3229, 'learning_rate': 1.7105263157894737e-05, 'epoch': 3.29}
+{'train_runtime': 83.292, 'train_samples_per_second': 290.304, 'train_steps_per_second': 9.125, 'train_loss': 0.22819835888712028, 'epoch': 5.0}
+{'loss': 0.9266, 'learning_rate': 1.7105263157894737e-05, 'epoch': 3.29}
+{'train_runtime': 82.73, 'train_samples_per_second': 292.276, 'train_steps_per_second': 9.187, 'train_loss': 0.7721047351234838, 'epoch': 5.0}
+{'loss': 0.3879, 'learning_rate': 1.7105263157894737e-05, 'epoch': 3.29}
+{'train_runtime': 84.0073, 'train_samples_per_second': 287.832, 'train_steps_per_second': 9.047, 'train_loss': 0.2831088768808465, 'epoch': 5.0}
+{'loss': 0.2943, 'learning_rate': 1.7105263157894737e-05, 'epoch': 3.29}
+{'train_runtime': 84.0971, 'train_samples_per_second': 287.525, 'train_steps_per_second': 9.037, 'train_loss': 0.2072712546900699, 'epoch': 5.0}
+    Model Experiment  Accuracy    F1  Recall  Precision
+0  GottBert         E0      0.88  0.88    0.88       0.88
+Train GottBert...
+{'loss': 0.5592, 'learning_rate': 2.8902953586497894e-05, 'epoch': 2.11}
+{'loss': 0.1935, 'learning_rate': 7.805907172995782e-06, 'epoch': 4.22}
+{'train_runtime': 133.8218, 'train_samples_per_second': 283.287, 'train_steps_per_second': 8.855, 'train_loss': 0.3292769580953735, 'epoch': 5.0}
+{'loss': 0.6117, 'learning_rate': 2.8902953586497894e-05, 'epoch': 2.11}
+{'loss': 0.2131, 'learning_rate': 7.805907172995782e-06, 'epoch': 4.22}
+{'train_runtime': 131.8999, 'train_samples_per_second': 287.415, 'train_steps_per_second': 8.984, 'train_loss': 0.363003055556414, 'epoch': 5.0}
+{'loss': 0.5905, 'learning_rate': 2.8902953586497894e-05, 'epoch': 2.11}
+{'loss': 0.2115, 'learning_rate': 7.805907172995782e-06, 'epoch': 4.22}
+{'train_runtime': 132.8598, 'train_samples_per_second': 285.338, 'train_steps_per_second': 8.919, 'train_loss': 0.3547241806480955, 'epoch': 5.0}
+{'loss': 0.5578, 'learning_rate': 2.8902953586497894e-05, 'epoch': 2.11}
+{'loss': 0.2069, 'learning_rate': 7.805907172995782e-06, 'epoch': 4.22}
+{'train_runtime': 131.4569, 'train_samples_per_second': 288.383, 'train_steps_per_second': 9.014, 'train_loss': 0.33450378788171437, 'epoch': 5.0}
+{'loss': 0.5703, 'learning_rate': 2.8902953586497894e-05, 'epoch': 2.11}
+{'loss': 0.1975, 'learning_rate': 7.805907172995782e-06, 'epoch': 4.22}
+{'train_runtime': 196.3441, 'train_samples_per_second': 193.079, 'train_steps_per_second': 6.035, 'train_loss': 0.33550683677448, 'epoch': 5.0}
+{'loss': 0.5786, 'learning_rate': 2.8902953586497894e-05, 'epoch': 2.11}
+{'loss': 0.2146, 'learning_rate': 7.805907172995782e-06, 'epoch': 4.22}
+{'train_runtime': 220.8151, 'train_samples_per_second': 171.705, 'train_steps_per_second': 5.366, 'train_loss': 0.3482653654074367, 'epoch': 5.0}
+{'loss': 0.6571, 'learning_rate': 2.8902953586497894e-05, 'epoch': 2.11}
+{'loss': 0.239, 'learning_rate': 7.805907172995782e-06, 'epoch': 4.22}
+{'train_runtime': 219.2811, 'train_samples_per_second': 172.906, 'train_steps_per_second': 5.404, 'train_loss': 0.39377913334198644, 'epoch': 5.0}
+{'loss': 0.629, 'learning_rate': 2.8902953586497894e-05, 'epoch': 2.11}
+{'loss': 0.2417, 'learning_rate': 7.805907172995782e-06, 'epoch': 4.22}
+{'train_runtime': 220.9603, 'train_samples_per_second': 171.592, 'train_steps_per_second': 5.363, 'train_loss': 0.3829679819099008, 'epoch': 5.0}
+{'loss': 0.5712, 'learning_rate': 2.8902953586497894e-05, 'epoch': 2.11}
+{'loss': 0.2077, 'learning_rate': 7.805907172995782e-06, 'epoch': 4.22}
+{'train_runtime': 148.8126, 'train_samples_per_second': 254.783, 'train_steps_per_second': 7.963, 'train_loss': 0.3402091489059513, 'epoch': 5.0}
+{'loss': 0.8716, 'learning_rate': 2.8902953586497894e-05, 'epoch': 2.11}
+{'loss': 0.4848, 'learning_rate': 7.805907172995782e-06, 'epoch': 4.22}
+{'train_runtime': 130.3085, 'train_samples_per_second': 290.963, 'train_steps_per_second': 9.094, 'train_loss': 0.6251274302035947, 'epoch': 5.0}
+    Model Experiment  Accuracy   F1  Recall  Precision
+0  GottBert         E1       0.8  0.8     0.8        0.8
+Train GottBert...
+{'loss': 0.4136, 'learning_rate': 2.6851851851851855e-05, 'epoch': 2.31}
+{'loss': 0.0919, 'learning_rate': 3.7037037037037037e-06, 'epoch': 4.63}
+{'train_runtime': 120.2229, 'train_samples_per_second': 287.008, 'train_steps_per_second': 8.983, 'train_loss': 0.2362915454087434, 'epoch': 5.0}
+{'loss': 0.6634, 'learning_rate': 2.6851851851851855e-05, 'epoch': 2.31}
+{'loss': 0.1885, 'learning_rate': 3.7037037037037037e-06, 'epoch': 4.63}
+{'train_runtime': 120.2578, 'train_samples_per_second': 286.925, 'train_steps_per_second': 8.981, 'train_loss': 0.40124795657617074, 'epoch': 5.0}
+{'loss': 0.4033, 'learning_rate': 2.6851851851851855e-05, 'epoch': 2.31}
+{'loss': 0.0899, 'learning_rate': 3.7037037037037037e-06, 'epoch': 4.63}
+{'train_runtime': 120.7501, 'train_samples_per_second': 285.755, 'train_steps_per_second': 8.944, 'train_loss': 0.23088371400479918, 'epoch': 5.0}
+{'loss': 0.6527, 'learning_rate': 2.6851851851851855e-05, 'epoch': 2.31}
+{'loss': 0.1872, 'learning_rate': 3.7037037037037037e-06, 'epoch': 4.63}
+{'train_runtime': 120.6925, 'train_samples_per_second': 285.892, 'train_steps_per_second': 8.948, 'train_loss': 0.39512568800537673, 'epoch': 5.0}
+{'loss': 0.3891, 'learning_rate': 2.6851851851851855e-05, 'epoch': 2.31}
+{'loss': 0.0781, 'learning_rate': 3.7037037037037037e-06, 'epoch': 4.63}
+{'train_runtime': 118.9753, 'train_samples_per_second': 290.018, 'train_steps_per_second': 9.078, 'train_loss': 0.2173626811416061, 'epoch': 5.0}
+{'loss': 0.4469, 'learning_rate': 2.6851851851851855e-05, 'epoch': 2.31}
+{'loss': 0.0925, 'learning_rate': 3.7037037037037037e-06, 'epoch': 4.63}
+{'train_runtime': 118.9832, 'train_samples_per_second': 289.999, 'train_steps_per_second': 9.077, 'train_loss': 0.2520744999249776, 'epoch': 5.0}
+{'loss': 0.4757, 'learning_rate': 2.6851851851851855e-05, 'epoch': 2.31}
+{'loss': 0.0987, 'learning_rate': 3.7037037037037037e-06, 'epoch': 4.63}
+{'train_runtime': 120.3135, 'train_samples_per_second': 286.792, 'train_steps_per_second': 8.977, 'train_loss': 0.2684173455944768, 'epoch': 5.0}
+{'loss': 0.4065, 'learning_rate': 2.6851851851851855e-05, 'epoch': 2.31}
+{'loss': 0.091, 'learning_rate': 3.7037037037037037e-06, 'epoch': 4.63}
+{'train_runtime': 121.6787, 'train_samples_per_second': 283.575, 'train_steps_per_second': 8.876, 'train_loss': 0.23275703213832996, 'epoch': 5.0}
+{'loss': 0.434, 'learning_rate': 2.6851851851851855e-05, 'epoch': 2.31}
+{'loss': 0.0998, 'learning_rate': 3.7037037037037037e-06, 'epoch': 4.63}
+{'train_runtime': 121.4748, 'train_samples_per_second': 284.092, 'train_steps_per_second': 8.891, 'train_loss': 0.2495901750193702, 'epoch': 5.0}
+{'loss': 0.4245, 'learning_rate': 2.6851851851851855e-05, 'epoch': 2.31}
+{'loss': 0.0969, 'learning_rate': 3.7037037037037037e-06, 'epoch': 4.63}
+{'train_runtime': 120.5379, 'train_samples_per_second': 286.3, 'train_steps_per_second': 8.96, 'train_loss': 0.24415471178513987, 'epoch': 5.0}
+    Model Experiment  Accuracy    F1  Recall  Precision
+0  GottBert         E2      0.88  0.88    0.88       0.88
+Train GottBert...
+{'loss': 0.3987, 'learning_rate': 2.5728155339805826e-05, 'epoch': 2.43}
+{'loss': 0.0864, 'learning_rate': 1.4563106796116506e-06, 'epoch': 4.85}
+{'train_runtime': 114.7472, 'train_samples_per_second': 286.804, 'train_steps_per_second': 8.976, 'train_loss': 0.23616527585149968, 'epoch': 5.0}
+{'loss': 0.4898, 'learning_rate': 2.5728155339805826e-05, 'epoch': 2.43}
+{'loss': 0.1067, 'learning_rate': 1.4563106796116506e-06, 'epoch': 4.85}
+{'train_runtime': 114.9778, 'train_samples_per_second': 286.229, 'train_steps_per_second': 8.958, 'train_loss': 0.2911532524719979, 'epoch': 5.0}
+{'loss': 0.3906, 'learning_rate': 2.5728155339805826e-05, 'epoch': 2.43}
+{'loss': 0.0763, 'learning_rate': 1.4563106796116506e-06, 'epoch': 4.85}
+{'train_runtime': 126.3799, 'train_samples_per_second': 260.405, 'train_steps_per_second': 8.15, 'train_loss': 0.227526440840323, 'epoch': 5.0}
+{'loss': 0.4013, 'learning_rate': 2.5728155339805826e-05, 'epoch': 2.43}
+{'loss': 0.0926, 'learning_rate': 1.4563106796116506e-06, 'epoch': 4.85}
+{'train_runtime': 192.2708, 'train_samples_per_second': 171.165, 'train_steps_per_second': 5.357, 'train_loss': 0.2409492025097597, 'epoch': 5.0}
+{'loss': 0.3924, 'learning_rate': 2.5728155339805826e-05, 'epoch': 2.43}
+{'loss': 0.0878, 'learning_rate': 1.4563106796116506e-06, 'epoch': 4.85}
+{'train_runtime': 192.416, 'train_samples_per_second': 171.062, 'train_steps_per_second': 5.353, 'train_loss': 0.23408453846440733, 'epoch': 5.0}
+{'loss': 0.4594, 'learning_rate': 2.5728155339805826e-05, 'epoch': 2.43}
+{'loss': 0.1035, 'learning_rate': 1.4563106796116506e-06, 'epoch': 4.85}
+{'train_runtime': 191.4154, 'train_samples_per_second': 171.956, 'train_steps_per_second': 5.381, 'train_loss': 0.2747883458739345, 'epoch': 5.0}
+{'loss': 0.4078, 'learning_rate': 2.5728155339805826e-05, 'epoch': 2.43}
+{'loss': 0.089, 'learning_rate': 1.4563106796116506e-06, 'epoch': 4.85}
+{'train_runtime': 192.3582, 'train_samples_per_second': 171.113, 'train_steps_per_second': 5.355, 'train_loss': 0.24348444174794318, 'epoch': 5.0}
+{'loss': 0.4035, 'learning_rate': 2.5728155339805826e-05, 'epoch': 2.43}
+{'loss': 0.0878, 'learning_rate': 1.4563106796116506e-06, 'epoch': 4.85}
+{'train_runtime': 135.9115, 'train_samples_per_second': 242.18, 'train_steps_per_second': 7.578, 'train_loss': 0.2405317440773677, 'epoch': 5.0}
+{'loss': 0.4419, 'learning_rate': 2.5728155339805826e-05, 'epoch': 2.43}
+{'loss': 0.1122, 'learning_rate': 1.4563106796116506e-06, 'epoch': 4.85}
+{'train_runtime': 113.887, 'train_samples_per_second': 289.015, 'train_steps_per_second': 9.044, 'train_loss': 0.27023077832842335, 'epoch': 5.0}
+{'loss': 0.3781, 'learning_rate': 2.5728155339805826e-05, 'epoch': 2.43}
+{'loss': 0.0828, 'learning_rate': 1.4563106796116506e-06, 'epoch': 4.85}
+{'train_runtime': 114.5324, 'train_samples_per_second': 287.386, 'train_steps_per_second': 8.993, 'train_loss': 0.22412676382990718, 'epoch': 5.0}
+    Model Experiment  Accuracy    F1  Recall  Precision
+0  GottBert         E3      0.89  0.89    0.89       0.89
+Train GottBert...
+{'loss': 0.3264, 'learning_rate': 2.4874371859296484e-05, 'epoch': 2.51}
+{'train_runtime': 108.8087, 'train_samples_per_second': 292.118, 'train_steps_per_second': 9.144, 'train_loss': 0.1892814444537139, 'epoch': 5.0}
+{'loss': 0.3568, 'learning_rate': 2.4874371859296484e-05, 'epoch': 2.51}
+{'train_runtime': 109.3988, 'train_samples_per_second': 290.543, 'train_steps_per_second': 9.095, 'train_loss': 0.20482355817478506, 'epoch': 5.0}
+{'loss': 0.407, 'learning_rate': 2.4874371859296484e-05, 'epoch': 2.51}
+{'train_runtime': 108.414, 'train_samples_per_second': 293.182, 'train_steps_per_second': 9.178, 'train_loss': 0.24001066121623743, 'epoch': 5.0}
+{'loss': 0.3279, 'learning_rate': 2.4874371859296484e-05, 'epoch': 2.51}
+{'train_runtime': 108.2287, 'train_samples_per_second': 293.684, 'train_steps_per_second': 9.193, 'train_loss': 0.19205918815267745, 'epoch': 5.0}
+{'loss': 0.3112, 'learning_rate': 2.4874371859296484e-05, 'epoch': 2.51}
+{'train_runtime': 107.3855, 'train_samples_per_second': 296.036, 'train_steps_per_second': 9.266, 'train_loss': 0.1818085330215531, 'epoch': 5.0}
+{'loss': 0.3379, 'learning_rate': 2.4874371859296484e-05, 'epoch': 2.51}
+{'train_runtime': 108.9737, 'train_samples_per_second': 291.722, 'train_steps_per_second': 9.131, 'train_loss': 0.19419978731241658, 'epoch': 5.0}
+{'loss': 0.3263, 'learning_rate': 2.4874371859296484e-05, 'epoch': 2.51}
+{'train_runtime': 109.8154, 'train_samples_per_second': 289.486, 'train_steps_per_second': 9.061, 'train_loss': 0.18775039557835566, 'epoch': 5.0}
+{'loss': 0.3568, 'learning_rate': 2.4874371859296484e-05, 'epoch': 2.51}
+{'train_runtime': 109.2502, 'train_samples_per_second': 290.983, 'train_steps_per_second': 9.108, 'train_loss': 0.21226123828983787, 'epoch': 5.0}
+{'loss': 0.3149, 'learning_rate': 2.4874371859296484e-05, 'epoch': 2.51}
+{'train_runtime': 109.0558, 'train_samples_per_second': 291.502, 'train_steps_per_second': 9.124, 'train_loss': 0.18502328575556, 'epoch': 5.0}
+{'loss': 0.3283, 'learning_rate': 2.4874371859296484e-05, 'epoch': 2.51}
+{'train_runtime': 110.0423, 'train_samples_per_second': 288.889, 'train_steps_per_second': 9.042, 'train_loss': 0.19133831388387249, 'epoch': 5.0}
+    Model Experiment  Accuracy    F1  Recall  Precision
+0  GottBert         E4      0.92  0.92    0.92       0.92
+Train Bert...
+{'loss': 0.2369, 'learning_rate': 1.7105263157894737e-05, 'epoch': 3.29}
+{'train_runtime': 687.2353, 'train_samples_per_second': 35.177, 'train_steps_per_second': 1.106, 'train_loss': 0.16257865554408024, 'epoch': 5.0}
+{'loss': 0.2118, 'learning_rate': 1.7105263157894737e-05, 'epoch': 3.29}
+{'train_runtime': 687.5827, 'train_samples_per_second': 35.159, 'train_steps_per_second': 1.105, 'train_loss': 0.1441662979753394, 'epoch': 5.0}
+{'loss': 0.206, 'learning_rate': 1.7105263157894737e-05, 'epoch': 3.29}
+{'train_runtime': 687.7451, 'train_samples_per_second': 35.151, 'train_steps_per_second': 1.105, 'train_loss': 0.14094820524516857, 'epoch': 5.0}
+{'loss': 0.2177, 'learning_rate': 1.7105263157894737e-05, 'epoch': 3.29}
+{'train_runtime': 687.9702, 'train_samples_per_second': 35.147, 'train_steps_per_second': 1.105, 'train_loss': 0.14893319104847155, 'epoch': 5.0}
+{'loss': 0.2216, 'learning_rate': 1.7105263157894737e-05, 'epoch': 3.29}
+{'train_runtime': 687.9414, 'train_samples_per_second': 35.148, 'train_steps_per_second': 1.105, 'train_loss': 0.15119114298569528, 'epoch': 5.0}
+{'loss': 0.2202, 'learning_rate': 1.7105263157894737e-05, 'epoch': 3.29}
+{'train_runtime': 687.6077, 'train_samples_per_second': 35.165, 'train_steps_per_second': 1.105, 'train_loss': 0.1493505662993381, 'epoch': 5.0}
+{'loss': 0.219, 'learning_rate': 1.7105263157894737e-05, 'epoch': 3.29}
+{'train_runtime': 688.3252, 'train_samples_per_second': 35.129, 'train_steps_per_second': 1.104, 'train_loss': 0.14746626144961306, 'epoch': 5.0}
+{'loss': 0.2136, 'learning_rate': 1.7105263157894737e-05, 'epoch': 3.29}
+{'train_runtime': 688.2772, 'train_samples_per_second': 35.131, 'train_steps_per_second': 1.104, 'train_loss': 0.1441380987041875, 'epoch': 5.0}
+{'loss': 0.2172, 'learning_rate': 1.7105263157894737e-05, 'epoch': 3.29}
+{'train_runtime': 688.702, 'train_samples_per_second': 35.11, 'train_steps_per_second': 1.104, 'train_loss': 0.1482979749378405, 'epoch': 5.0}
+{'loss': 0.21, 'learning_rate': 1.7105263157894737e-05, 'epoch': 3.29}
+{'train_runtime': 689.0676, 'train_samples_per_second': 35.091, 'train_steps_per_second': 1.103, 'train_loss': 0.14309188409855492, 'epoch': 5.0}
+Model Experiment  Accuracy    F1  Recall  Precision
+0  Bert         E0      0.91  0.91    0.91       0.91
+Train Bert...
+{'loss': 0.436, 'learning_rate': 2.8902953586497894e-05, 'epoch': 2.11}
+{'loss': 0.0939, 'learning_rate': 7.805907172995782e-06, 'epoch': 4.22}
+{'train_runtime': 1079.8073, 'train_samples_per_second': 35.108, 'train_steps_per_second': 1.097, 'train_loss': 0.2267291378874316, 'epoch': 5.0}
+{'loss': 0.4735, 'learning_rate': 2.8902953586497894e-05, 'epoch': 2.11}
+{'loss': 0.1017, 'learning_rate': 7.805907172995782e-06, 'epoch': 4.22}
+{'train_runtime': 1081.9936, 'train_samples_per_second': 35.037, 'train_steps_per_second': 1.095, 'train_loss': 0.24741195847716513, 'epoch': 5.0}
+{'loss': 0.4658, 'learning_rate': 2.8902953586497894e-05, 'epoch': 2.11}
+{'loss': 0.1051, 'learning_rate': 7.805907172995782e-06, 'epoch': 4.22}
+{'train_runtime': 1081.046, 'train_samples_per_second': 35.068, 'train_steps_per_second': 1.096, 'train_loss': 0.24531818261126426, 'epoch': 5.0}
+{'loss': 0.4932, 'learning_rate': 2.8902953586497894e-05, 'epoch': 2.11}
+{'loss': 0.1258, 'learning_rate': 7.805907172995782e-06, 'epoch': 4.22}
+{'train_runtime': 1081.098, 'train_samples_per_second': 35.066, 'train_steps_per_second': 1.096, 'train_loss': 0.2667628332532408, 'epoch': 5.0}
+{'loss': 0.4729, 'learning_rate': 2.8902953586497894e-05, 'epoch': 2.11}
+{'loss': 0.1059, 'learning_rate': 7.805907172995782e-06, 'epoch': 4.22}
+{'train_runtime': 1080.9291, 'train_samples_per_second': 35.072, 'train_steps_per_second': 1.096, 'train_loss': 0.2485990154089304, 'epoch': 5.0}
+{'loss': 0.4775, 'learning_rate': 2.8902953586497894e-05, 'epoch': 2.11}
+{'loss': 0.111, 'learning_rate': 7.805907172995782e-06, 'epoch': 4.22}
+{'train_runtime': 1081.1057, 'train_samples_per_second': 35.071, 'train_steps_per_second': 1.096, 'train_loss': 0.2535088217208154, 'epoch': 5.0}
+{'loss': 0.4505, 'learning_rate': 2.8902953586497894e-05, 'epoch': 2.11}
+{'loss': 0.1023, 'learning_rate': 7.805907172995782e-06, 'epoch': 4.22}
+{'train_runtime': 1080.991, 'train_samples_per_second': 35.074, 'train_steps_per_second': 1.096, 'train_loss': 0.23778569024323412, 'epoch': 5.0}
+{'loss': 0.4584, 'learning_rate': 2.8902953586497894e-05, 'epoch': 2.11}
+{'loss': 0.1097, 'learning_rate': 7.805907172995782e-06, 'epoch': 4.22}
+{'train_runtime': 1081.456, 'train_samples_per_second': 35.059, 'train_steps_per_second': 1.096, 'train_loss': 0.2444672882305419, 'epoch': 5.0}
+{'loss': 0.458, 'learning_rate': 2.8902953586497894e-05, 'epoch': 2.11}
+{'loss': 0.102, 'learning_rate': 7.805907172995782e-06, 'epoch': 4.22}
+{'train_runtime': 1081.1218, 'train_samples_per_second': 35.07, 'train_steps_per_second': 1.096, 'train_loss': 0.24062707434223674, 'epoch': 5.0}
+{'loss': 0.4625, 'learning_rate': 2.8902953586497894e-05, 'epoch': 2.11}
+{'loss': 0.1076, 'learning_rate': 7.805907172995782e-06, 'epoch': 4.22}
+{'train_runtime': 1081.2178, 'train_samples_per_second': 35.067, 'train_steps_per_second': 1.096, 'train_loss': 0.24486366344403618, 'epoch': 5.0}
+Model Experiment  Accuracy    F1  Recall  Precision
+0  Bert         E1      0.82  0.81    0.82       0.82
+Train Bert...
+{'loss': 0.2766, 'learning_rate': 2.6851851851851855e-05, 'epoch': 2.31}
+{'loss': 0.0292, 'learning_rate': 3.7037037037037037e-06, 'epoch': 4.63}
+{'train_runtime': 984.0642, 'train_samples_per_second': 35.064, 'train_steps_per_second': 1.097, 'train_loss': 0.14198160996591602, 'epoch': 5.0}
+{'loss': 0.2774, 'learning_rate': 2.6851851851851855e-05, 'epoch': 2.31}
+{'loss': 0.0341, 'learning_rate': 3.7037037037037037e-06, 'epoch': 4.63}
+{'train_runtime': 984.4686, 'train_samples_per_second': 35.049, 'train_steps_per_second': 1.097, 'train_loss': 0.14471103350321451, 'epoch': 5.0}
+{'loss': 0.2998, 'learning_rate': 2.6851851851851855e-05, 'epoch': 2.31}
+{'loss': 0.0341, 'learning_rate': 3.7037037037037037e-06, 'epoch': 4.63}
+{'train_runtime': 984.4729, 'train_samples_per_second': 35.049, 'train_steps_per_second': 1.097, 'train_loss': 0.15510385842235, 'epoch': 5.0}
+{'loss': 0.2877, 'learning_rate': 2.6851851851851855e-05, 'epoch': 2.31}
+{'loss': 0.0379, 'learning_rate': 3.7037037037037037e-06, 'epoch': 4.63}
+{'train_runtime': 984.4999, 'train_samples_per_second': 35.048, 'train_steps_per_second': 1.097, 'train_loss': 0.15140612428938902, 'epoch': 5.0}
+{'loss': 0.2841, 'learning_rate': 2.6851851851851855e-05, 'epoch': 2.31}
+{'loss': 0.0338, 'learning_rate': 3.7037037037037037e-06, 'epoch': 4.63}
+{'train_runtime': 984.3646, 'train_samples_per_second': 35.053, 'train_steps_per_second': 1.097, 'train_loss': 0.14744390174746513, 'epoch': 5.0}
+{'loss': 0.2885, 'learning_rate': 2.6851851851851855e-05, 'epoch': 2.31}
+{'loss': 0.0307, 'learning_rate': 3.7037037037037037e-06, 'epoch': 4.63}
+{'train_runtime': 984.7336, 'train_samples_per_second': 35.04, 'train_steps_per_second': 1.097, 'train_loss': 0.1483429064905202, 'epoch': 5.0}
+{'loss': 0.2875, 'learning_rate': 2.6851851851851855e-05, 'epoch': 2.31}
+{'loss': 0.0299, 'learning_rate': 3.7037037037037037e-06, 'epoch': 4.63}
+{'train_runtime': 984.5901, 'train_samples_per_second': 35.045, 'train_steps_per_second': 1.097, 'train_loss': 0.1475435064898597, 'epoch': 5.0}
+{'loss': 0.29, 'learning_rate': 2.6851851851851855e-05, 'epoch': 2.31}
+{'loss': 0.0344, 'learning_rate': 3.7037037037037037e-06, 'epoch': 4.63}
+{'train_runtime': 984.7652, 'train_samples_per_second': 35.039, 'train_steps_per_second': 1.097, 'train_loss': 0.15117492863425502, 'epoch': 5.0}
+{'loss': 0.3069, 'learning_rate': 2.6851851851851855e-05, 'epoch': 2.31}
+{'loss': 0.037, 'learning_rate': 3.7037037037037037e-06, 'epoch': 4.63}
+{'train_runtime': 984.7593, 'train_samples_per_second': 35.044, 'train_steps_per_second': 1.097, 'train_loss': 0.15992765421116795, 'epoch': 5.0}
+{'loss': 0.2842, 'learning_rate': 2.6851851851851855e-05, 'epoch': 2.31}
+{'loss': 0.034, 'learning_rate': 3.7037037037037037e-06, 'epoch': 4.63}
+{'train_runtime': 984.9368, 'train_samples_per_second': 35.038, 'train_steps_per_second': 1.097, 'train_loss': 0.1479977940519651, 'epoch': 5.0}
+Model Experiment  Accuracy   F1  Recall  Precision
+0  Bert         E2       0.9  0.9     0.9        0.9
+Train Bert...
+{'loss': 0.2788, 'learning_rate': 2.5728155339805826e-05, 'epoch': 2.43}
+{'loss': 0.033, 'learning_rate': 1.4563106796116506e-06, 'epoch': 4.85}
+{'train_runtime': 938.9449, 'train_samples_per_second': 35.05, 'train_steps_per_second': 1.097, 'train_loss': 0.15200492635513974, 'epoch': 5.0}
+{'loss': 0.2431, 'learning_rate': 2.5728155339805826e-05, 'epoch': 2.43}
+{'loss': 0.0287, 'learning_rate': 1.4563106796116506e-06, 'epoch': 4.85}
+{'train_runtime': 939.248, 'train_samples_per_second': 35.039, 'train_steps_per_second': 1.097, 'train_loss': 0.1320157887070503, 'epoch': 5.0}
+{'loss': 0.2449, 'learning_rate': 2.5728155339805826e-05, 'epoch': 2.43}
+{'loss': 0.0346, 'learning_rate': 1.4563106796116506e-06, 'epoch': 4.85}
+{'train_runtime': 939.1228, 'train_samples_per_second': 35.043, 'train_steps_per_second': 1.097, 'train_loss': 0.13588677106551753, 'epoch': 5.0}
+{'loss': 0.2726, 'learning_rate': 2.5728155339805826e-05, 'epoch': 2.43}
+{'loss': 0.0337, 'learning_rate': 1.4563106796116506e-06, 'epoch': 4.85}
+{'train_runtime': 939.0092, 'train_samples_per_second': 35.048, 'train_steps_per_second': 1.097, 'train_loss': 0.14882557306764196, 'epoch': 5.0}
+{'loss': 0.2736, 'learning_rate': 2.5728155339805826e-05, 'epoch': 2.43}
+{'loss': 0.0315, 'learning_rate': 1.4563106796116506e-06, 'epoch': 4.85}
+{'train_runtime': 939.4219, 'train_samples_per_second': 35.038, 'train_steps_per_second': 1.096, 'train_loss': 0.14828920921365035, 'epoch': 5.0}
+{'loss': 0.2536, 'learning_rate': 2.5728155339805826e-05, 'epoch': 2.43}
+{'loss': 0.0293, 'learning_rate': 1.4563106796116506e-06, 'epoch': 4.85}
+{'train_runtime': 939.2457, 'train_samples_per_second': 35.044, 'train_steps_per_second': 1.097, 'train_loss': 0.13774122896703703, 'epoch': 5.0}
+{'loss': 0.255, 'learning_rate': 2.5728155339805826e-05, 'epoch': 2.43}
+{'loss': 0.0288, 'learning_rate': 1.4563106796116506e-06, 'epoch': 4.85}
+{'train_runtime': 939.456, 'train_samples_per_second': 35.036, 'train_steps_per_second': 1.096, 'train_loss': 0.1379985369380238, 'epoch': 5.0}
+{'loss': 0.276, 'learning_rate': 2.5728155339805826e-05, 'epoch': 2.43}
+{'loss': 0.0283, 'learning_rate': 1.4563106796116506e-06, 'epoch': 4.85}
+{'train_runtime': 939.6667, 'train_samples_per_second': 35.028, 'train_steps_per_second': 1.096, 'train_loss': 0.14785157521662204, 'epoch': 5.0}
+{'loss': 0.2559, 'learning_rate': 2.5728155339805826e-05, 'epoch': 2.43}
+{'loss': 0.0321, 'learning_rate': 1.4563106796116506e-06, 'epoch': 4.85}
+{'train_runtime': 939.4526, 'train_samples_per_second': 35.036, 'train_steps_per_second': 1.096, 'train_loss': 0.14014435320803262, 'epoch': 5.0}
+{'loss': 0.2662, 'learning_rate': 2.5728155339805826e-05, 'epoch': 2.43}
+{'loss': 0.0352, 'learning_rate': 1.4563106796116506e-06, 'epoch': 4.85}
+{'train_runtime': 939.6479, 'train_samples_per_second': 35.029, 'train_steps_per_second': 1.096, 'train_loss': 0.14635532415535266, 'epoch': 5.0}
+Model Experiment  Accuracy    F1  Recall  Precision
+0  Bert         E3      0.91  0.91    0.91       0.91
+Train Bert...
+{'loss': 0.2031, 'learning_rate': 2.4874371859296484e-05, 'epoch': 2.51}
+{'train_runtime': 905.6632, 'train_samples_per_second': 35.096, 'train_steps_per_second': 1.099, 'train_loss': 0.10703316789176597, 'epoch': 5.0}
+{'loss': 0.2014, 'learning_rate': 2.4874371859296484e-05, 'epoch': 2.51}
+{'train_runtime': 905.8457, 'train_samples_per_second': 35.089, 'train_steps_per_second': 1.098, 'train_loss': 0.10908825936628945, 'epoch': 5.0}
+{'loss': 0.2119, 'learning_rate': 2.4874371859296484e-05, 'epoch': 2.51}
+{'train_runtime': 905.7455, 'train_samples_per_second': 35.093, 'train_steps_per_second': 1.099, 'train_loss': 0.11336417174219486, 'epoch': 5.0}
+{'loss': 0.1884, 'learning_rate': 2.4874371859296484e-05, 'epoch': 2.51}
+{'train_runtime': 905.8631, 'train_samples_per_second': 35.088, 'train_steps_per_second': 1.098, 'train_loss': 0.10121191781968927, 'epoch': 5.0}
+{'loss': 0.1984, 'learning_rate': 2.4874371859296484e-05, 'epoch': 2.51}
+{'train_runtime': 905.8745, 'train_samples_per_second': 35.093, 'train_steps_per_second': 1.098, 'train_loss': 0.10571810372510747, 'epoch': 5.0}
+{'loss': 0.1926, 'learning_rate': 2.4874371859296484e-05, 'epoch': 2.51}
+{'train_runtime': 905.9071, 'train_samples_per_second': 35.092, 'train_steps_per_second': 1.098, 'train_loss': 0.10276041270500451, 'epoch': 5.0}
+{'loss': 0.1982, 'learning_rate': 2.4874371859296484e-05, 'epoch': 2.51}
+{'train_runtime': 905.9525, 'train_samples_per_second': 35.09, 'train_steps_per_second': 1.098, 'train_loss': 0.10666951893562049, 'epoch': 5.0}
+{'loss': 0.2036, 'learning_rate': 2.4874371859296484e-05, 'epoch': 2.51}
+{'train_runtime': 905.9275, 'train_samples_per_second': 35.091, 'train_steps_per_second': 1.098, 'train_loss': 0.11027659698946392, 'epoch': 5.0}
+{'loss': 0.1849, 'learning_rate': 2.4874371859296484e-05, 'epoch': 2.51}
+{'train_runtime': 906.0385, 'train_samples_per_second': 35.087, 'train_steps_per_second': 1.098, 'train_loss': 0.09932212254509853, 'epoch': 5.0}
+{'loss': 0.1901, 'learning_rate': 2.4874371859296484e-05, 'epoch': 2.51}
+{'train_runtime': 906.0104, 'train_samples_per_second': 35.088, 'train_steps_per_second': 1.098, 'train_loss': 0.10160749761303466, 'epoch': 5.0}
+Model Experiment  Accuracy    F1  Recall  Precision
+0  Bert         E4      0.94  0.94    0.94       0.94
+Train Electra...
+{'loss': 0.437, 'learning_rate': 1.7105263157894737e-05, 'epoch': 3.29}
+{'train_runtime': 688.9259, 'train_samples_per_second': 35.091, 'train_steps_per_second': 1.103, 'train_loss': 0.3161923559088456, 'epoch': 5.0}
+{'loss': 0.4676, 'learning_rate': 1.7105263157894737e-05, 'epoch': 3.29}
+{'train_runtime': 689.2401, 'train_samples_per_second': 35.075, 'train_steps_per_second': 1.103, 'train_loss': 0.34283670375221653, 'epoch': 5.0}
+{'loss': 0.4333, 'learning_rate': 1.7105263157894737e-05, 'epoch': 3.29}
+{'train_runtime': 689.1608, 'train_samples_per_second': 35.079, 'train_steps_per_second': 1.103, 'train_loss': 0.3163554367266203, 'epoch': 5.0}
+{'loss': 0.4817, 'learning_rate': 1.7105263157894737e-05, 'epoch': 3.29}
+{'train_runtime': 689.2552, 'train_samples_per_second': 35.081, 'train_steps_per_second': 1.103, 'train_loss': 0.3516427943581029, 'epoch': 5.0}
+{'loss': 0.4863, 'learning_rate': 1.7105263157894737e-05, 'epoch': 3.29}
+{'train_runtime': 689.2222, 'train_samples_per_second': 35.083, 'train_steps_per_second': 1.103, 'train_loss': 0.35652980302509507, 'epoch': 5.0}
+{'loss': 0.4753, 'learning_rate': 1.7105263157894737e-05, 'epoch': 3.29}
+{'train_runtime': 689.4097, 'train_samples_per_second': 35.073, 'train_steps_per_second': 1.102, 'train_loss': 0.3480815209840473, 'epoch': 5.0}
+{'loss': 0.5143, 'learning_rate': 1.7105263157894737e-05, 'epoch': 3.29}
+{'train_runtime': 689.465, 'train_samples_per_second': 35.071, 'train_steps_per_second': 1.102, 'train_loss': 0.38112735748291016, 'epoch': 5.0}
+{'loss': 0.4947, 'learning_rate': 1.7105263157894737e-05, 'epoch': 3.29}
+{'train_runtime': 689.4091, 'train_samples_per_second': 35.074, 'train_steps_per_second': 1.102, 'train_loss': 0.3638208539862382, 'epoch': 5.0}
+{'loss': 0.4802, 'learning_rate': 1.7105263157894737e-05, 'epoch': 3.29}
+{'train_runtime': 689.6166, 'train_samples_per_second': 35.063, 'train_steps_per_second': 1.102, 'train_loss': 0.35233159065246583, 'epoch': 5.0}
+{'loss': 0.4882, 'learning_rate': 1.7105263157894737e-05, 'epoch': 3.29}
+{'train_runtime': 689.5501, 'train_samples_per_second': 35.066, 'train_steps_per_second': 1.102, 'train_loss': 0.35946976009168125, 'epoch': 5.0}
+    Model Experiment  Accuracy    F1  Recall  Precision
+0  Electra         E0      0.91  0.91    0.91       0.91
+Train Electra...
+{'loss': 0.6452, 'learning_rate': 2.8902953586497894e-05, 'epoch': 2.11}
+{'loss': 0.2466, 'learning_rate': 7.805907172995782e-06, 'epoch': 4.22}
+{'train_runtime': 1081.7042, 'train_samples_per_second': 35.047, 'train_steps_per_second': 1.095, 'train_loss': 0.3955170015745525, 'epoch': 5.0}
+{'loss': 0.64, 'learning_rate': 2.8902953586497894e-05, 'epoch': 2.11}
+{'loss': 0.2261, 'learning_rate': 7.805907172995782e-06, 'epoch': 4.22}
+{'train_runtime': 1081.546, 'train_samples_per_second': 35.052, 'train_steps_per_second': 1.096, 'train_loss': 0.38580176116042, 'epoch': 5.0}
+{'loss': 0.6646, 'learning_rate': 2.8902953586497894e-05, 'epoch': 2.11}
+{'loss': 0.2603, 'learning_rate': 7.805907172995782e-06, 'epoch': 4.22}
+{'train_runtime': 1081.3388, 'train_samples_per_second': 35.058, 'train_steps_per_second': 1.096, 'train_loss': 0.41233217263523536, 'epoch': 5.0}
+{'loss': 0.6558, 'learning_rate': 2.8902953586497894e-05, 'epoch': 2.11}
+{'loss': 0.25, 'learning_rate': 7.805907172995782e-06, 'epoch': 4.22}
+{'train_runtime': 1082.1524, 'train_samples_per_second': 35.032, 'train_steps_per_second': 1.095, 'train_loss': 0.4036016488377052, 'epoch': 5.0}
+{'loss': 0.6514, 'learning_rate': 2.8902953586497894e-05, 'epoch': 2.11}
+{'loss': 0.2296, 'learning_rate': 7.805907172995782e-06, 'epoch': 4.22}
+{'train_runtime': 1082.1113, 'train_samples_per_second': 35.033, 'train_steps_per_second': 1.095, 'train_loss': 0.3908436755087808, 'epoch': 5.0}
+{'loss': 1.2879, 'learning_rate': 2.8902953586497894e-05, 'epoch': 2.11}
+{'loss': 1.2819, 'learning_rate': 7.805907172995782e-06, 'epoch': 4.22}
+{'train_runtime': 1081.0093, 'train_samples_per_second': 35.074, 'train_steps_per_second': 1.096, 'train_loss': 1.283813901490803, 'epoch': 5.0}
+{'loss': 0.6516, 'learning_rate': 2.8902953586497894e-05, 'epoch': 2.11}
+{'loss': 0.2485, 'learning_rate': 7.805907172995782e-06, 'epoch': 4.22}
+{'train_runtime': 1081.8721, 'train_samples_per_second': 35.046, 'train_steps_per_second': 1.095, 'train_loss': 0.400368659103973, 'epoch': 5.0}
+{'loss': 0.6767, 'learning_rate': 2.8902953586497894e-05, 'epoch': 2.11}
+{'loss': 0.2673, 'learning_rate': 7.805907172995782e-06, 'epoch': 4.22}
+{'train_runtime': 1082.1642, 'train_samples_per_second': 35.036, 'train_steps_per_second': 1.095, 'train_loss': 0.4199109057333902, 'epoch': 5.0}
+{'loss': 0.6704, 'learning_rate': 2.8902953586497894e-05, 'epoch': 2.11}
+{'loss': 0.2682, 'learning_rate': 7.805907172995782e-06, 'epoch': 4.22}
+{'train_runtime': 1081.8836, 'train_samples_per_second': 35.045, 'train_steps_per_second': 1.095, 'train_loss': 0.4188930366612688, 'epoch': 5.0}
+{'loss': 0.6975, 'learning_rate': 2.8902953586497894e-05, 'epoch': 2.11}
+{'loss': 0.2684, 'learning_rate': 7.805907172995782e-06, 'epoch': 4.22}
+{'train_runtime': 1081.5597, 'train_samples_per_second': 35.056, 'train_steps_per_second': 1.096, 'train_loss': 0.43124517287886094, 'epoch': 5.0}
+    Model Experiment  Accuracy    F1  Recall  Precision
+0  Electra         E1      0.78  0.78    0.78       0.79
+Train Electra...
+{'loss': 0.5149, 'learning_rate': 2.6851851851851855e-05, 'epoch': 2.31}
+{'loss': 0.1104, 'learning_rate': 3.7037037037037037e-06, 'epoch': 4.63}
+{'train_runtime': 984.4116, 'train_samples_per_second': 35.051, 'train_steps_per_second': 1.097, 'train_loss': 0.29360498234077737, 'epoch': 5.0}
+{'loss': 0.5011, 'learning_rate': 2.6851851851851855e-05, 'epoch': 2.31}
+{'loss': 0.1084, 'learning_rate': 3.7037037037037037e-06, 'epoch': 4.63}
+{'train_runtime': 984.4789, 'train_samples_per_second': 35.049, 'train_steps_per_second': 1.097, 'train_loss': 0.28547443946202594, 'epoch': 5.0}
+{'loss': 0.532, 'learning_rate': 2.6851851851851855e-05, 'epoch': 2.31}
+{'loss': 0.111, 'learning_rate': 3.7037037037037037e-06, 'epoch': 4.63}
+{'train_runtime': 985.0744, 'train_samples_per_second': 35.028, 'train_steps_per_second': 1.096, 'train_loss': 0.3015926263950489, 'epoch': 5.0}
+{'loss': 0.5538, 'learning_rate': 2.6851851851851855e-05, 'epoch': 2.31}
+{'loss': 0.1241, 'learning_rate': 3.7037037037037037e-06, 'epoch': 4.63}
+{'train_runtime': 984.9695, 'train_samples_per_second': 35.032, 'train_steps_per_second': 1.096, 'train_loss': 0.3187068824414854, 'epoch': 5.0}
+{'loss': 0.5405, 'learning_rate': 2.6851851851851855e-05, 'epoch': 2.31}
+{'loss': 0.1197, 'learning_rate': 3.7037037037037037e-06, 'epoch': 4.63}
+{'train_runtime': 984.9892, 'train_samples_per_second': 35.031, 'train_steps_per_second': 1.096, 'train_loss': 0.30944002910896584, 'epoch': 5.0}
+{'loss': 0.5703, 'learning_rate': 2.6851851851851855e-05, 'epoch': 2.31}
+{'loss': 0.1205, 'learning_rate': 3.7037037037037037e-06, 'epoch': 4.63}
+{'train_runtime': 984.6788, 'train_samples_per_second': 35.042, 'train_steps_per_second': 1.097, 'train_loss': 0.3251573090200071, 'epoch': 5.0}
+{'loss': 0.5031, 'learning_rate': 2.6851851851851855e-05, 'epoch': 2.31}
+{'loss': 0.1083, 'learning_rate': 3.7037037037037037e-06, 'epoch': 4.63}
+{'train_runtime': 984.9798, 'train_samples_per_second': 35.031, 'train_steps_per_second': 1.096, 'train_loss': 0.28696925286893493, 'epoch': 5.0}
+{'loss': 0.521, 'learning_rate': 2.6851851851851855e-05, 'epoch': 2.31}
+{'loss': 0.1215, 'learning_rate': 3.7037037037037037e-06, 'epoch': 4.63}
+{'train_runtime': 984.8213, 'train_samples_per_second': 35.037, 'train_steps_per_second': 1.097, 'train_loss': 0.3021109554502699, 'epoch': 5.0}
+{'loss': 0.5369, 'learning_rate': 2.6851851851851855e-05, 'epoch': 2.31}
+{'loss': 0.1228, 'learning_rate': 3.7037037037037037e-06, 'epoch': 4.63}
+{'train_runtime': 984.9941, 'train_samples_per_second': 35.036, 'train_steps_per_second': 1.096, 'train_loss': 0.3102947160049721, 'epoch': 5.0}
+{'loss': 0.5812, 'learning_rate': 2.6851851851851855e-05, 'epoch': 2.31}
+{'loss': 0.1335, 'learning_rate': 3.7037037037037037e-06, 'epoch': 4.63}
+{'train_runtime': 984.9764, 'train_samples_per_second': 35.036, 'train_steps_per_second': 1.096, 'train_loss': 0.3364377163074635, 'epoch': 5.0}
+    Model Experiment  Accuracy   F1  Recall  Precision
+0  Electra         E2       0.9  0.9     0.9        0.9
+Train Electra...
+{'loss': 0.5344, 'learning_rate': 2.5728155339805826e-05, 'epoch': 2.43}
+{'loss': 0.1212, 'learning_rate': 1.4563106796116506e-06, 'epoch': 4.85}
+{'train_runtime': 939.3073, 'train_samples_per_second': 35.036, 'train_steps_per_second': 1.097, 'train_loss': 0.32030682841550956, 'epoch': 5.0}
+{'loss': 0.5227, 'learning_rate': 2.5728155339805826e-05, 'epoch': 2.43}
+{'loss': 0.1267, 'learning_rate': 1.4563106796116506e-06, 'epoch': 4.85}
+{'train_runtime': 939.4297, 'train_samples_per_second': 35.032, 'train_steps_per_second': 1.096, 'train_loss': 0.31774643161921823, 'epoch': 5.0}
+{'loss': 0.5263, 'learning_rate': 2.5728155339805826e-05, 'epoch': 2.43}
+{'loss': 0.1175, 'learning_rate': 1.4563106796116506e-06, 'epoch': 4.85}
+{'train_runtime': 939.4387, 'train_samples_per_second': 35.032, 'train_steps_per_second': 1.096, 'train_loss': 0.31431751147057246, 'epoch': 5.0}
+{'loss': 0.4847, 'learning_rate': 2.5728155339805826e-05, 'epoch': 2.43}
+{'loss': 0.094, 'learning_rate': 1.4563106796116506e-06, 'epoch': 4.85}
+{'train_runtime': 939.5532, 'train_samples_per_second': 35.027, 'train_steps_per_second': 1.096, 'train_loss': 0.2824836555036526, 'epoch': 5.0}
+{'loss': 0.5306, 'learning_rate': 2.5728155339805826e-05, 'epoch': 2.43}
+{'loss': 0.128, 'learning_rate': 1.4563106796116506e-06, 'epoch': 4.85}
+{'train_runtime': 939.5001, 'train_samples_per_second': 35.035, 'train_steps_per_second': 1.096, 'train_loss': 0.3215032548580355, 'epoch': 5.0}
+{'loss': 0.4832, 'learning_rate': 2.5728155339805826e-05, 'epoch': 2.43}
+{'loss': 0.1041, 'learning_rate': 1.4563106796116506e-06, 'epoch': 4.85}
+{'train_runtime': 939.7435, 'train_samples_per_second': 35.026, 'train_steps_per_second': 1.096, 'train_loss': 0.28595266342163084, 'epoch': 5.0}
+{'loss': 0.5022, 'learning_rate': 2.5728155339805826e-05, 'epoch': 2.43}
+{'loss': 0.1304, 'learning_rate': 1.4563106796116506e-06, 'epoch': 4.85}
+{'train_runtime': 939.98, 'train_samples_per_second': 35.017, 'train_steps_per_second': 1.096, 'train_loss': 0.3095613347673879, 'epoch': 5.0}
+{'loss': 0.6175, 'learning_rate': 2.5728155339805826e-05, 'epoch': 2.43}
+{'loss': 0.1301, 'learning_rate': 1.4563106796116506e-06, 'epoch': 4.85}
+{'train_runtime': 939.824, 'train_samples_per_second': 35.023, 'train_steps_per_second': 1.096, 'train_loss': 0.36548796186169374, 'epoch': 5.0}
+{'loss': 0.502, 'learning_rate': 2.5728155339805826e-05, 'epoch': 2.43}
+{'loss': 0.1132, 'learning_rate': 1.4563106796116506e-06, 'epoch': 4.85}
+{'train_runtime': 939.7579, 'train_samples_per_second': 35.025, 'train_steps_per_second': 1.096, 'train_loss': 0.30032540316720613, 'epoch': 5.0}
+{'loss': 0.477, 'learning_rate': 2.5728155339805826e-05, 'epoch': 2.43}
+{'loss': 0.1009, 'learning_rate': 1.4563106796116506e-06, 'epoch': 4.85}
+{'train_runtime': 939.9249, 'train_samples_per_second': 35.019, 'train_steps_per_second': 1.096, 'train_loss': 0.28211760844999145, 'epoch': 5.0}
+    Model Experiment  Accuracy    F1  Recall  Precision
+0  Electra         E3      0.91  0.91    0.91       0.91
+Train Electra...
+{'loss': 0.3925, 'learning_rate': 2.4874371859296484e-05, 'epoch': 2.51}
+{'train_runtime': 905.1425, 'train_samples_per_second': 35.116, 'train_steps_per_second': 1.099, 'train_loss': 0.21857560315922875, 'epoch': 5.0}
+{'loss': 0.4656, 'learning_rate': 2.4874371859296484e-05, 'epoch': 2.51}
+{'train_runtime': 905.2811, 'train_samples_per_second': 35.111, 'train_steps_per_second': 1.099, 'train_loss': 0.2621693155873361, 'epoch': 5.0}
+{'loss': 0.4078, 'learning_rate': 2.4874371859296484e-05, 'epoch': 2.51}
+{'train_runtime': 905.6939, 'train_samples_per_second': 35.095, 'train_steps_per_second': 1.099, 'train_loss': 0.22789048621402913, 'epoch': 5.0}
+{'loss': 0.4194, 'learning_rate': 2.4874371859296484e-05, 'epoch': 2.51}
+{'train_runtime': 905.721, 'train_samples_per_second': 35.094, 'train_steps_per_second': 1.099, 'train_loss': 0.23266002520843965, 'epoch': 5.0}
+{'loss': 0.4879, 'learning_rate': 2.4874371859296484e-05, 'epoch': 2.51}
+{'train_runtime': 906.1334, 'train_samples_per_second': 35.083, 'train_steps_per_second': 1.098, 'train_loss': 0.2745291724276902, 'epoch': 5.0}
+{'loss': 0.4841, 'learning_rate': 2.4874371859296484e-05, 'epoch': 2.51}
+{'train_runtime': 906.0887, 'train_samples_per_second': 35.085, 'train_steps_per_second': 1.098, 'train_loss': 0.2874175526987967, 'epoch': 5.0}
+{'loss': 0.4665, 'learning_rate': 2.4874371859296484e-05, 'epoch': 2.51}
+{'train_runtime': 906.1552, 'train_samples_per_second': 35.082, 'train_steps_per_second': 1.098, 'train_loss': 0.26684614401965884, 'epoch': 5.0}
+{'loss': 0.4533, 'learning_rate': 2.4874371859296484e-05, 'epoch': 2.51}
+{'train_runtime': 905.8111, 'train_samples_per_second': 35.096, 'train_steps_per_second': 1.098, 'train_loss': 0.259190504754608, 'epoch': 5.0}
+{'loss': 0.4442, 'learning_rate': 2.4874371859296484e-05, 'epoch': 2.51}
+{'train_runtime': 905.7228, 'train_samples_per_second': 35.099, 'train_steps_per_second': 1.099, 'train_loss': 0.2486192655323738, 'epoch': 5.0}
+{'loss': 0.449, 'learning_rate': 2.4874371859296484e-05, 'epoch': 2.51}
+{'train_runtime': 905.8331, 'train_samples_per_second': 35.095, 'train_steps_per_second': 1.098, 'train_loss': 0.2557289621937814, 'epoch': 5.0}
+    Model Experiment  Accuracy    F1  Recall  Precision
+0  Electra         E4      0.94  0.94    0.94       0.94

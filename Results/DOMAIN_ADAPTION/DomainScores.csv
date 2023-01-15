@@ -1,0 +1,11 @@
+Model,Experiment,Target_Split,Train_Size,Test_Size,Accuracy,F1,Recall,Precision
+DistilBert,E4,Impfpflicht,6142,922,0.96,0.96,0.96,0.96
+DistilBert,E4,COP26,6351,713,0.97,0.97,0.97,0.97
+DistilBert,E4,Zeitenwende,6245,819,0.96,0.96,0.96,0.96
+DistilBert,E4,Protocol,4776,2288,0.92,0.92,0.92,0.93
+DistilBert,E4,Twitter,5157,1907,0.86,0.85,0.86,0.86
+DistilBert,E4,Talkshow,6503,561,0.97,0.97,0.97,0.97
+DistilBert,E4,Newspaper,5484,1580,0.92,0.92,0.92,0.92
+DistilBert,E4,Manifesto,6349,715,0.93,0.93,0.93,0.94
+DistilBert,E4,20th Century,5069,1995,0.92,0.92,0.92,0.92
+DistilBert,E4,21st Century,4513,5069,0.86,0.86,0.86,0.86

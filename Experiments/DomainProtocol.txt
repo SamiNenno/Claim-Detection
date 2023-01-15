@@ -1,0 +1,57 @@
+Test set is Impfpflicht...
+{'loss': 0.2431, 'learning_rate': 2.3958333333333334e-05, 'epoch': 2.6}
+{'train_runtime': 446.6602, 'train_samples_per_second': 68.755, 'train_steps_per_second': 2.149, 'train_loss': 0.134665480752786, 'epoch': 5.0}
+{'Model': 'DistilBert', 'Experiment': 'E4', 'Target_Split': 'Impfpflicht', 'Train_Size': 6142, 'Test_Size': 922, 'Accuracy': 0.96, 'F1': 0.96, 'Recall': 0.96, 'Precision': 0.96}
+Test set is COP26...
+{'loss': 0.2363, 'learning_rate': 2.4874371859296484e-05, 'epoch': 2.51}
+{'train_runtime': 463.1147, 'train_samples_per_second': 68.568, 'train_steps_per_second': 2.148, 'train_loss': 0.12733290303292585, 'epoch': 5.0}
+{'Model': 'DistilBert', 'Experiment': 'E4', 'Target_Split': 'COP26', 'Train_Size': 6351, 'Test_Size': 713, 'Accuracy': 0.97, 'F1': 0.97, 'Recall': 0.97, 'Precision': 0.97}
+Test set is Zeitenwende...
+{'loss': 0.2432, 'learning_rate': 2.448979591836735e-05, 'epoch': 2.55}
+{'train_runtime': 455.0151, 'train_samples_per_second': 68.624, 'train_steps_per_second': 2.154, 'train_loss': 0.13254999919813507, 'epoch': 5.0}
+{'Model': 'DistilBert', 'Experiment': 'E4', 'Target_Split': 'Zeitenwende', 'Train_Size': 6245, 'Test_Size': 819, 'Accuracy': 0.96, 'F1': 0.96, 'Recall': 0.96, 'Precision': 0.96}
+Test set is PROTOKOLL...
+{'loss': 0.2109, 'learning_rate': 1.6666666666666667e-05, 'epoch': 3.33}
+{'train_runtime': 348.04, 'train_samples_per_second': 68.613, 'train_steps_per_second': 2.155, 'train_loss': 0.14458939107259114, 'epoch': 5.0}
+{'Model': 'DistilBert', 'Experiment': 'E4', 'Target_Split': 'PROTOKOLL', 'Train_Size': 4776, 'Test_Size': 2288, 'Accuracy': 0.92, 'F1': 0.92, 'Recall': 0.92, 'Precision': 0.93}
+Test set is SOCIAL_MEDIA...
+{'loss': 0.1957, 'learning_rate': 1.91358024691358e-05, 'epoch': 3.09}
+{'train_runtime': 376.2111, 'train_samples_per_second': 68.539, 'train_steps_per_second': 2.153, 'train_loss': 0.12364541660120458, 'epoch': 5.0}
+{'Model': 'DistilBert', 'Experiment': 'E4', 'Target_Split': 'SOCIAL_MEDIA', 'Train_Size': 5157, 'Test_Size': 1907, 'Accuracy': 0.86, 'F1': 0.85, 'Recall': 0.86, 'Precision': 0.86}
+Test set is TALKSHOW...
+{'loss': 0.237, 'learning_rate': 2.5490196078431373e-05, 'epoch': 2.45}
+{'loss': 0.0176, 'learning_rate': 9.80392156862745e-07, 'epoch': 4.9}
+{'train_runtime': 475.1081, 'train_samples_per_second': 68.437, 'train_steps_per_second': 2.147, 'train_loss': 0.12480388192423418, 'epoch': 5.0}
+{'Model': 'DistilBert', 'Experiment': 'E4', 'Target_Split': 'TALKSHOW', 'Train_Size': 6503, 'Test_Size': 561, 'Accuracy': 0.97, 'F1': 0.97, 'Recall': 0.97, 'Precision': 0.97}
+Test set is NEWSPAPER...
+{'loss': 0.2291, 'learning_rate': 2.0930232558139536e-05, 'epoch': 2.91}
+{'train_runtime': 399.581, 'train_samples_per_second': 68.622, 'train_steps_per_second': 2.152, 'train_loss': 0.13868036769157233, 'epoch': 5.0}
+{'Model': 'DistilBert', 'Experiment': 'E4', 'Target_Split': 'NEWSPAPER', 'Train_Size': 5484, 'Test_Size': 1580, 'Accuracy': 0.92, 'F1': 0.92, 'Recall': 0.92, 'Precision': 0.92}
+Test set is MANIFESTO...
+{'loss': 0.2321, 'learning_rate': 2.4874371859296484e-05, 'epoch': 2.51}
+{'train_runtime': 462.5795, 'train_samples_per_second': 68.626, 'train_steps_per_second': 2.151, 'train_loss': 0.1253415400059379, 'epoch': 5.0}
+{'Model': 'DistilBert', 'Experiment': 'E4', 'Target_Split': 'MANIFESTO', 'Train_Size': 6349, 'Test_Size': 715, 'Accuracy': 0.93, 'F1': 0.93, 'Recall': 0.93, 'Precision': 0.94}
+Test set is 20th Century...
+{'loss': 0.2293, 'learning_rate': 1.8553459119496856e-05, 'epoch': 3.14}
+{'train_runtime': 369.4298, 'train_samples_per_second': 68.606, 'train_steps_per_second': 2.152, 'train_loss': 0.1481423923804325, 'epoch': 5.0}
+{'Model': 'DistilBert', 'Experiment': 'E4', 'Target_Split': '20th Century', 'Train_Size': 5069, 'Test_Size': 1995, 'Accuracy': 0.92, 'F1': 0.92, 'Recall': 0.92, 'Precision': 0.92}
+Test set is 21st Century...
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+{'loss': 0.2219, 'learning_rate': 1.4788732394366198e-05, 'epoch': 3.52}
+{'train_runtime': 328.3298, 'train_samples_per_second': 68.727, 'train_steps_per_second': 2.162, 'train_loss': 0.1648047124835807, 'epoch': 5.0}
+{'Model': 'DistilBert', 'Experiment': 'E4', 'Target_Split': '21st Century', 'Train_Size': 4513, 'Test_Size': 5069, 'Accuracy': 0.86, 'F1': 0.86, 'Recall': 0.86, 'Precision': 0.86}
